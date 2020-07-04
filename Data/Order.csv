@@ -1,0 +1,1001 @@
+order_no,delivery_means,delivery_by,amount,order_status,ordered_category,ordered_from,reasonForCancellation
+6944320495,Cycle,F,1000,Cancelled,Seafood,Online Portal,Packaging not Proper
+3838382501,Cycle,M,272,Cancelled,South Indian,Online Portal,Ordered mistaken
+3982488648,Cycle,F,805,Cancelled,Susi,Online Portal,Ordered mistaken
+6814443341,Bike,F,124,Cancelled,South Indian,Mobile App,Damaged
+8933002731,Cycle,F,352,Cancelled,Susi,Mobile App,Ordered mistaken
+9150099566,Cycle,M,774,Cancelled,Seafood,Online Portal,Packaging not Proper
+7498641216,Bike,M,882,Cancelled,Susi,Online Portal,Ordered mistaken
+6566690581,Cycle,M,440,Cancelled,South Indian,Online Portal,Ordered mistaken
+3141655065,Walk,M,591,Cancelled,Seafood,Online Portal,Damaged
+3356178725,Bike,M,595,Cancelled,South Indian,Mobile App,Ordered mistaken
+1038579716,Walk,M,248,Cancelled,Continental,Online Portal,Damaged
+4112250282,Bike,F,745,Cancelled,South Indian,Mobile App,Damaged
+2509972464,Cycle,M,737,Cancelled,Seafood,Mobile App,Ordered mistaken
+3815991854,Cycle,M,173,Cancelled,Continental,Online Portal,Ordered mistaken
+616291787,Cycle,F,645,Cancelled,South Indian,Online Portal,Ordered mistaken
+5142875249,Cycle,M,467,Cancelled,Seafood,Mobile App,Packaging not Proper
+668870664,Bike,F,707,Cancelled,Susi,Online Portal,Packaging not Proper
+8407862517,Cycle,F,580,Cancelled,South Indian,Mobile App,Damaged
+2455918858,Cycle,M,391,Cancelled,South Indian,Online Portal,Ordered mistaken
+9658713971,Walk,M,157,Cancelled,South Indian,Online Portal,Packaging not Proper
+6163899563,Walk,M,111,Cancelled,South Indian,Online Portal,Ordered mistaken
+4357421381,Bike,F,206,Cancelled,North Indian,Mobile App,Ordered mistaken
+9132689667,Cycle,F,189,Cancelled,Susi,Online Portal,Ordered mistaken
+5258446514,Cycle,F,994,Cancelled,Susi,Mobile App,Damaged
+5195864799,Walk,F,588,Cancelled,North Indian,Online Portal,Packaging not Proper
+4969058598,Cycle,M,509,Cancelled,Continental,Mobile App,Ordered mistaken
+6887211998,Bike,F,468,Cancelled,South Indian,Online Portal,Damaged
+3232903185,Bike,F,460,Cancelled,Continental,Online Portal,Damaged
+5507044023,Walk,F,347,Cancelled,Seafood,Online Portal,Packaging not Proper
+2856274102,Bike,F,348,Cancelled,Susi,Mobile App,Ordered mistaken
+8755647685,Walk,M,741,Cancelled,Susi,Mobile App,Packaging not Proper
+1852598131,Bike,M,549,Cancelled,South Indian,Online Portal,Damaged
+1127021559,Bike,M,793,Cancelled,South Indian,Mobile App,Ordered mistaken
+4612577140,Cycle,F,732,Cancelled,Seafood,Mobile App,Damaged
+9094581817,Bike,F,179,Cancelled,Susi,Mobile App,Ordered mistaken
+9672140673,Cycle,F,344,Cancelled,North Indian,Online Portal,Damaged
+2821978871,Walk,F,245,Cancelled,Seafood,Mobile App,Ordered mistaken
+427116309,Walk,M,244,Cancelled,North Indian,Online Portal,Ordered mistaken
+8699689160,Bike,M,762,Cancelled,Continental,Mobile App,Ordered mistaken
+8365087464,Cycle,M,689,Cancelled,North Indian,Mobile App,Packaging not Proper
+8847577403,Walk,F,139,Cancelled,Seafood,Online Portal,Ordered mistaken
+9163356805,Cycle,M,104,Cancelled,Continental,Online Portal,Ordered mistaken
+33878013,Cycle,F,539,Cancelled,North Indian,Online Portal,Damaged
+5412095399,Walk,F,678,Cancelled,Susi,Online Portal,Damaged
+5612131143,Bike,F,923,Cancelled,North Indian,Mobile App,Packaging not Proper
+7612823314,Cycle,F,650,Cancelled,South Indian,Mobile App,Ordered mistaken
+5078843795,Walk,F,776,Cancelled,South Indian,Online Portal,Ordered mistaken
+2482191513,Cycle,F,553,Cancelled,Seafood,Mobile App,Packaging not Proper
+2932306812,Bike,F,612,Cancelled,Susi,Online Portal,Damaged
+9133526443,Walk,M,701,Cancelled,South Indian,Online Portal,Ordered mistaken
+7372208785,Cycle,F,173,Cancelled,Continental,Online Portal,Damaged
+9878831884,Walk,F,487,Cancelled,Seafood,Mobile App,Damaged
+5144347347,Walk,M,300,Cancelled,Seafood,Mobile App,Ordered mistaken
+6952268448,Cycle,M,352,Cancelled,South Indian,Mobile App,Damaged
+7149655238,Walk,M,485,Cancelled,North Indian,Mobile App,Ordered mistaken
+6238453397,Cycle,F,478,Cancelled,North Indian,Online Portal,Ordered mistaken
+1443664111,Cycle,F,513,Cancelled,Susi,Online Portal,Ordered mistaken
+5673583605,Cycle,F,156,Cancelled,Susi,Mobile App,Packaging not Proper
+8951091430,Bike,F,385,Cancelled,South Indian,Mobile App,Damaged
+2693563836,Bike,F,714,Cancelled,North Indian,Mobile App,Packaging not Proper
+8741253612,Bike,M,548,Cancelled,South Indian,Online Portal,Ordered mistaken
+6721847620,Cycle,M,759,Cancelled,South Indian,Mobile App,Ordered mistaken
+3774485429,Walk,F,852,Cancelled,North Indian,Mobile App,Ordered mistaken
+4699517102,Cycle,F,910,Cancelled,North Indian,Online Portal,Damaged
+4623193624,Walk,M,119,Cancelled,South Indian,Online Portal,Damaged
+318489767,Walk,F,798,Cancelled,Continental,Online Portal,Damaged
+4124183275,Walk,M,965,Cancelled,Seafood,Mobile App,Ordered mistaken
+3897790742,Bike,M,104,Cancelled,South Indian,Online Portal,Ordered mistaken
+5456599651,Bike,M,227,Cancelled,Continental,Mobile App,Ordered mistaken
+2447816251,Bike,M,706,Cancelled,Continental,Mobile App,Ordered mistaken
+3178414754,Cycle,F,270,Cancelled,Seafood,Mobile App,Ordered mistaken
+1472015568,Walk,F,685,Cancelled,Susi,Online Portal,Damaged
+1411815270,Cycle,F,661,Cancelled,Continental,Online Portal,Packaging not Proper
+3442893062,Cycle,F,659,Cancelled,Continental,Online Portal,Packaging not Proper
+1485979005,Bike,M,593,Cancelled,Seafood,Online Portal,Ordered mistaken
+3604360773,Walk,M,516,Cancelled,Seafood,Mobile App,Packaging not Proper
+3352259674,Walk,M,742,Cancelled,Seafood,Mobile App,Packaging not Proper
+2778461833,Walk,F,408,Cancelled,South Indian,Online Portal,Damaged
+6831161677,Bike,M,837,Cancelled,North Indian,Mobile App,Damaged
+7408347674,Bike,M,578,Cancelled,Susi,Mobile App,Damaged
+8073681323,Cycle,M,509,Cancelled,Seafood,Online Portal,Packaging not Proper
+5681921697,Walk,M,163,Cancelled,Susi,Online Portal,Packaging not Proper
+2253861405,Walk,M,424,Cancelled,Susi,Mobile App,Damaged
+2560440512,Cycle,F,563,Cancelled,Continental,Mobile App,Ordered mistaken
+9072015851,Cycle,M,781,Cancelled,North Indian,Mobile App,Damaged
+6533414623,Walk,M,711,Cancelled,Continental,Mobile App,Packaging not Proper
+3331695122,Cycle,M,507,Cancelled,Seafood,Online Portal,Packaging not Proper
+8484939510,Bike,M,112,Cancelled,Continental,Online Portal,Ordered mistaken
+1523934697,Cycle,F,917,Cancelled,North Indian,Mobile App,Ordered mistaken
+7522416825,Bike,F,931,Cancelled,Seafood,Online Portal,Ordered mistaken
+8222313304,Cycle,M,772,Cancelled,Seafood,Mobile App,Ordered mistaken
+6962989458,Bike,F,814,Cancelled,North Indian,Online Portal,Ordered mistaken
+1665348984,Bike,F,825,Cancelled,South Indian,Online Portal,Damaged
+3684961930,Bike,F,976,Cancelled,Susi,Online Portal,Ordered mistaken
+1850330174,Cycle,F,463,Cancelled,Seafood,Online Portal,Damaged
+7440307569,Cycle,F,639,Cancelled,South Indian,Mobile App,Packaging not Proper
+5139384388,Bike,M,246,Cancelled,South Indian,Online Portal,Damaged
+7788630349,Walk,F,690,Cancelled,Susi,Online Portal,Damaged
+6746925277,Bike,M,860,Cancelled,Continental,Mobile App,Packaging not Proper
+9146461906,Cycle,M,828,Cancelled,North Indian,Online Portal,Ordered mistaken
+8222728563,Walk,F,369,Cancelled,North Indian,Online Portal,Ordered mistaken
+9705740194,Bike,M,619,Cancelled,South Indian,Online Portal,Damaged
+1274110793,Walk,M,159,Cancelled,Susi,Mobile App,Damaged
+364999896,Cycle,M,152,Cancelled,Seafood,Online Portal,Packaging not Proper
+5120409229,Bike,M,104,Cancelled,North Indian,Online Portal,Packaging not Proper
+5987109728,Bike,M,118,Cancelled,Continental,Online Portal,Damaged
+7020519571,Bike,F,855,Cancelled,South Indian,Online Portal,Ordered mistaken
+1052019358,Cycle,M,812,Cancelled,North Indian,Online Portal,Ordered mistaken
+5755923264,Walk,M,526,Cancelled,Seafood,Online Portal,Ordered mistaken
+9198110934,Bike,F,259,Cancelled,North Indian,Mobile App,Ordered mistaken
+6891982634,Cycle,F,100,Cancelled,Susi,Mobile App,Packaging not Proper
+380001470,Walk,M,946,Cancelled,Seafood,Mobile App,Ordered mistaken
+307830179,Cycle,M,834,Cancelled,North Indian,Mobile App,Ordered mistaken
+8940949722,Cycle,F,378,Cancelled,Susi,Online Portal,Ordered mistaken
+1204153477,Walk,M,957,Cancelled,South Indian,Online Portal,Ordered mistaken
+8680835765,Walk,M,610,Cancelled,South Indian,Mobile App,Damaged
+2030313807,Cycle,F,566,Cancelled,Susi,Online Portal,Ordered mistaken
+6706292494,Bike,M,533,Cancelled,Continental,Mobile App,Ordered mistaken
+5382609365,Bike,M,219,Cancelled,Continental,Mobile App,Damaged
+2705813640,Walk,F,590,Cancelled,Continental,Online Portal,Ordered mistaken
+3400096946,Cycle,F,720,Cancelled,Susi,Online Portal,Ordered mistaken
+8162120122,Cycle,M,770,Cancelled,South Indian,Mobile App,Damaged
+56573502,Bike,F,467,Cancelled,South Indian,Online Portal,Ordered mistaken
+8255862196,Walk,M,452,Cancelled,Seafood,Online Portal,Ordered mistaken
+2358047791,Walk,M,353,Cancelled,South Indian,Mobile App,Damaged
+9693660358,Cycle,F,328,Cancelled,South Indian,Mobile App,Packaging not Proper
+3503879056,Cycle,M,790,Cancelled,Susi,Mobile App,Ordered mistaken
+9178048605,Cycle,M,920,Cancelled,South Indian,Online Portal,Damaged
+7520474720,Cycle,F,752,Cancelled,North Indian,Mobile App,Ordered mistaken
+949073857,Cycle,F,381,Cancelled,North Indian,Online Portal,Ordered mistaken
+2897753366,Cycle,M,640,Cancelled,Continental,Mobile App,Ordered mistaken
+3313724892,Cycle,M,175,Cancelled,Seafood,Online Portal,Ordered mistaken
+3406187528,Cycle,F,543,Cancelled,Seafood,Mobile App,Ordered mistaken
+9304031508,Walk,M,781,Cancelled,South Indian,Mobile App,Ordered mistaken
+3591123641,Bike,F,571,Cancelled,South Indian,Online Portal,Packaging not Proper
+4858102718,Bike,F,449,Cancelled,Susi,Online Portal,Ordered mistaken
+467238162,Walk,M,715,Cancelled,Continental,Mobile App,Ordered mistaken
+3435771747,Walk,F,644,Cancelled,Seafood,Mobile App,Damaged
+605032378,Bike,F,436,Cancelled,Seafood,Online Portal,Ordered mistaken
+5465960167,Cycle,F,464,Cancelled,North Indian,Online Portal,Packaging not Proper
+9623900899,Walk,F,106,Cancelled,North Indian,Mobile App,Ordered mistaken
+2154168698,Walk,M,784,Cancelled,Susi,Mobile App,Packaging not Proper
+7101374700,Cycle,M,349,Cancelled,Continental,Mobile App,Damaged
+4905994942,Cycle,M,800,Cancelled,Continental,Mobile App,Packaging not Proper
+8223059045,Walk,F,639,Cancelled,Seafood,Online Portal,Packaging not Proper
+4803900221,Walk,F,469,Cancelled,North Indian,Mobile App,Damaged
+4191129716,Cycle,F,227,Cancelled,Continental,Online Portal,Packaging not Proper
+8507823483,Bike,M,570,Cancelled,North Indian,Online Portal,Ordered mistaken
+7715184829,Walk,M,110,Cancelled,Susi,Online Portal,Ordered mistaken
+7809969838,Walk,F,861,Cancelled,Seafood,Mobile App,Damaged
+1761331035,Bike,F,977,Cancelled,Seafood,Mobile App,Ordered mistaken
+7641684041,Cycle,F,345,Cancelled,Seafood,Mobile App,Ordered mistaken
+8576016842,Cycle,M,157,Cancelled,Seafood,Online Portal,Packaging not Proper
+3098495790,Bike,M,774,Cancelled,Susi,Online Portal,Ordered mistaken
+7494793607,Walk,M,597,Cancelled,Continental,Mobile App,Ordered mistaken
+8852074635,Cycle,F,940,Cancelled,North Indian,Online Portal,Ordered mistaken
+5294282593,Bike,F,193,Cancelled,Continental,Online Portal,Packaging not Proper
+5128052907,Walk,M,235,Cancelled,North Indian,Mobile App,Ordered mistaken
+8775090163,Bike,F,434,Cancelled,Continental,Online Portal,Packaging not Proper
+5094440985,Walk,M,602,Cancelled,Seafood,Mobile App,Packaging not Proper
+8076941008,Cycle,F,185,Cancelled,Susi,Mobile App,Damaged
+3117965602,Bike,F,848,Cancelled,Susi,Mobile App,Damaged
+8468329827,Cycle,F,207,Cancelled,South Indian,Online Portal,Ordered mistaken
+187930457,Cycle,F,340,Cancelled,North Indian,Mobile App,Ordered mistaken
+4053476070,Bike,M,112,Cancelled,North Indian,Mobile App,Ordered mistaken
+1876372001,Cycle,F,397,Cancelled,Susi,Mobile App,Ordered mistaken
+6234758851,Cycle,F,141,Cancelled,North Indian,Online Portal,Ordered mistaken
+1361743492,Bike,F,706,Cancelled,Susi,Online Portal,Packaging not Proper
+9162633600,Cycle,F,950,Cancelled,Susi,Online Portal,Damaged
+7322062132,Bike,M,921,Cancelled,Susi,Online Portal,Damaged
+2967593451,Cycle,M,870,Cancelled,Seafood,Mobile App,Damaged
+3821690089,Walk,M,336,Cancelled,Seafood,Online Portal,Ordered mistaken
+2998445330,Cycle,F,860,Cancelled,North Indian,Online Portal,Ordered mistaken
+3944630890,Cycle,M,609,Cancelled,Seafood,Online Portal,Ordered mistaken
+6942743127,Walk,F,491,Cancelled,Seafood,Mobile App,Packaging not Proper
+897638395,Bike,F,159,Cancelled,Continental,Mobile App,Ordered mistaken
+4405308446,Walk,F,833,Cancelled,Continental,Online Portal,Damaged
+6383512129,Walk,F,272,Cancelled,Seafood,Mobile App,Ordered mistaken
+8353815974,Walk,F,687,Cancelled,Susi,Mobile App,Packaging not Proper
+6476248022,Walk,F,825,Cancelled,Susi,Online Portal,Damaged
+805878270,Walk,F,909,Cancelled,Susi,Online Portal,Damaged
+9890308703,Cycle,M,742,Cancelled,South Indian,Mobile App,Damaged
+778395804,Cycle,M,599,Cancelled,Susi,Mobile App,Ordered mistaken
+1912018152,Bike,M,477,Cancelled,Susi,Online Portal,Ordered mistaken
+8338137421,Walk,F,614,Cancelled,Continental,Online Portal,Ordered mistaken
+9673848114,Walk,F,926,Cancelled,North Indian,Online Portal,Ordered mistaken
+8438563562,Bike,M,871,Cancelled,South Indian,Mobile App,Ordered mistaken
+5829551861,Walk,F,535,Cancelled,Susi,Mobile App,Packaging not Proper
+7659938622,Walk,M,245,Cancelled,Continental,Online Portal,Damaged
+8622268128,Bike,F,543,Cancelled,Continental,Mobile App,Ordered mistaken
+4350088520,Walk,F,574,Cancelled,Susi,Online Portal,Damaged
+5640739142,Walk,F,314,Cancelled,Susi,Mobile App,Ordered mistaken
+3880287031,Walk,M,265,Cancelled,Susi,Online Portal,Packaging not Proper
+6698159999,Bike,M,279,Cancelled,Continental,Mobile App,Packaging not Proper
+9895576293,Bike,M,493,Cancelled,South Indian,Online Portal,Ordered mistaken
+8001958043,Cycle,F,475,Cancelled,Seafood,Online Portal,Packaging not Proper
+537380752,Walk,F,853,Cancelled,North Indian,Mobile App,Damaged
+6740780382,Bike,F,410,Cancelled,North Indian,Online Portal,Ordered mistaken
+9102138638,Walk,F,637,Cancelled,Continental,Online Portal,Ordered mistaken
+385989431,Cycle,F,675,Cancelled,South Indian,Mobile App,Ordered mistaken
+5249367763,Walk,M,266,Cancelled,Seafood,Mobile App,Ordered mistaken
+9766550735,Cycle,F,400,Cancelled,Continental,Mobile App,Ordered mistaken
+628799667,Cycle,F,149,Cancelled,North Indian,Mobile App,Packaging not Proper
+5065855064,Bike,M,308,Cancelled,Susi,Mobile App,Ordered mistaken
+8686186955,Bike,F,937,Cancelled,Susi,Mobile App,Packaging not Proper
+4543183010,Cycle,F,790,Cancelled,South Indian,Online Portal,Ordered mistaken
+3461761362,Cycle,M,456,Cancelled,Continental,Mobile App,Ordered mistaken
+6945186814,Bike,M,390,Cancelled,Susi,Mobile App,Ordered mistaken
+4634102935,Bike,M,664,Cancelled,Continental,Online Portal,Ordered mistaken
+2917416696,Cycle,M,873,Cancelled,Susi,Mobile App,Packaging not Proper
+2220231623,Cycle,M,163,Cancelled,Susi,Online Portal,Packaging not Proper
+5582527850,Cycle,F,945,Cancelled,Seafood,Mobile App,Damaged
+8171313132,Bike,M,300,Cancelled,Susi,Online Portal,Damaged
+679316035,Bike,F,771,Cancelled,Seafood,Mobile App,Ordered mistaken
+8316861607,Cycle,M,427,Cancelled,North Indian,Mobile App,Ordered mistaken
+1604644648,Walk,M,359,Cancelled,Continental,Online Portal,Packaging not Proper
+7412793721,Walk,M,691,Cancelled,North Indian,Online Portal,Packaging not Proper
+479907242,Bike,M,363,Cancelled,Seafood,Online Portal,Packaging not Proper
+1229658149,Walk,M,571,Cancelled,Susi,Online Portal,Damaged
+5617577263,Bike,M,957,Cancelled,Susi,Online Portal,Ordered mistaken
+1784317853,Bike,M,677,Cancelled,North Indian,Online Portal,Damaged
+7898903196,Walk,F,711,Cancelled,Susi,Online Portal,Ordered mistaken
+4212109778,Walk,M,287,Cancelled,Susi,Online Portal,Ordered mistaken
+9757926388,Walk,F,641,Cancelled,Continental,Online Portal,Ordered mistaken
+1270489666,Walk,F,156,Cancelled,Seafood,Mobile App,Ordered mistaken
+5863749113,Walk,F,781,Cancelled,South Indian,Mobile App,Ordered mistaken
+4318697584,Cycle,M,623,Cancelled,North Indian,Online Portal,Ordered mistaken
+4238056213,Walk,F,347,Cancelled,Seafood,Online Portal,Ordered mistaken
+5667221195,Walk,M,433,Cancelled,Continental,Online Portal,Damaged
+5430734470,Bike,F,875,Cancelled,Susi,Mobile App,Ordered mistaken
+4608003925,Cycle,F,268,Cancelled,Seafood,Mobile App,Packaging not Proper
+9647330731,Walk,M,257,Cancelled,Susi,Mobile App,Ordered mistaken
+3481929498,Cycle,F,789,Cancelled,Seafood,Mobile App,Packaging not Proper
+3239780119,Cycle,M,541,Cancelled,Susi,Mobile App,Packaging not Proper
+863590012,Cycle,F,202,Cancelled,North Indian,Online Portal,Damaged
+7689343120,Walk,F,677,Cancelled,Susi,Mobile App,Ordered mistaken
+2262222150,Walk,M,759,Cancelled,Susi,Mobile App,Ordered mistaken
+5780087113,Bike,M,353,Cancelled,South Indian,Online Portal,Ordered mistaken
+1330421183,Cycle,F,865,Cancelled,South Indian,Online Portal,Ordered mistaken
+1926787072,Bike,F,531,Cancelled,Continental,Online Portal,Ordered mistaken
+9455898020,Bike,M,940,Cancelled,North Indian,Mobile App,Ordered mistaken
+903433575,Walk,M,970,Cancelled,Seafood,Mobile App,Packaging not Proper
+7921702600,Cycle,M,868,Cancelled,Seafood,Online Portal,Ordered mistaken
+9192730558,Cycle,M,276,Cancelled,Susi,Mobile App,Ordered mistaken
+4202962796,Walk,M,669,Cancelled,Continental,Online Portal,Ordered mistaken
+7476773187,Bike,F,870,Cancelled,South Indian,Online Portal,Ordered mistaken
+7682253762,Bike,F,101,Cancelled,Continental,Mobile App,Ordered mistaken
+9234614399,Walk,F,913,Cancelled,South Indian,Mobile App,Ordered mistaken
+7620057633,Bike,F,832,Cancelled,Continental,Mobile App,Ordered mistaken
+6977440120,Walk,F,390,Cancelled,Seafood,Online Portal,Damaged
+4381764897,Bike,F,652,Cancelled,Continental,Mobile App,Ordered mistaken
+3968585399,Cycle,F,318,Cancelled,South Indian,Mobile App,Damaged
+2874046973,Cycle,F,446,Cancelled,North Indian,Mobile App,Ordered mistaken
+6810380701,Bike,F,685,Cancelled,North Indian,Online Portal,Packaging not Proper
+7475391906,Walk,F,649,Cancelled,Continental,Online Portal,Ordered mistaken
+5528588561,Cycle,F,600,Cancelled,Seafood,Mobile App,Ordered mistaken
+4695177951,Cycle,M,777,Cancelled,Continental,Online Portal,Ordered mistaken
+1835309976,Cycle,F,512,Cancelled,Susi,Mobile App,Damaged
+4582534309,Walk,M,840,Cancelled,North Indian,Mobile App,Ordered mistaken
+5109063419,Walk,F,642,Cancelled,North Indian,Online Portal,Ordered mistaken
+8839058443,Walk,M,451,Cancelled,Seafood,Online Portal,Ordered mistaken
+5302342332,Cycle,M,603,Cancelled,Susi,Online Portal,Damaged
+9280410938,Bike,M,410,Cancelled,Continental,Mobile App,Packaging not Proper
+3849439356,Cycle,M,560,Cancelled,Susi,Mobile App,Damaged
+1235581535,Cycle,M,939,Cancelled,South Indian,Online Portal,Ordered mistaken
+1855971631,Cycle,M,585,Cancelled,Continental,Online Portal,Packaging not Proper
+5770433442,Cycle,M,234,Cancelled,South Indian,Mobile App,Ordered mistaken
+9793951583,Cycle,M,849,Cancelled,North Indian,Online Portal,Ordered mistaken
+6895873015,Walk,F,975,Cancelled,Susi,Online Portal,Packaging not Proper
+9471776457,Cycle,M,948,Cancelled,Susi,Online Portal,Damaged
+2616080303,Cycle,M,127,Cancelled,North Indian,Online Portal,Packaging not Proper
+8863335052,Walk,F,937,Cancelled,South Indian,Mobile App,Ordered mistaken
+954514750,Bike,F,537,Cancelled,South Indian,Mobile App,Ordered mistaken
+5470308170,Bike,M,513,Cancelled,South Indian,Online Portal,Ordered mistaken
+5534484381,Walk,F,986,Cancelled,Susi,Mobile App,Packaging not Proper
+27180115,Cycle,M,999,Cancelled,Susi,Mobile App,Ordered mistaken
+2818665140,Cycle,M,458,Cancelled,North Indian,Mobile App,Damaged
+2664241540,Walk,M,103,Cancelled,South Indian,Mobile App,Damaged
+4191869655,Walk,F,615,Cancelled,Seafood,Online Portal,Ordered mistaken
+4742407148,Walk,F,624,Cancelled,Seafood,Mobile App,Packaging not Proper
+7084946292,Bike,M,101,Cancelled,Seafood,Mobile App,Ordered mistaken
+7485662589,Cycle,M,503,Cancelled,South Indian,Mobile App,Damaged
+8859208688,Cycle,F,390,Cancelled,Continental,Online Portal,Ordered mistaken
+2605287408,Cycle,F,972,Cancelled,Susi,Online Portal,Packaging not Proper
+6417319237,Cycle,M,362,Cancelled,North Indian,Online Portal,Packaging not Proper
+2674919523,Bike,M,394,Cancelled,Susi,Mobile App,Packaging not Proper
+5664423722,Bike,M,388,Cancelled,Continental,Mobile App,Damaged
+3127101007,Bike,F,752,Cancelled,Seafood,Mobile App,Packaging not Proper
+6178285701,Walk,M,957,Cancelled,Susi,Mobile App,Packaging not Proper
+1067082166,Cycle,M,841,Cancelled,South Indian,Mobile App,Damaged
+5450631030,Walk,M,981,Cancelled,Continental,Online Portal,Ordered mistaken
+4413583981,Walk,M,541,Cancelled,Continental,Online Portal,Ordered mistaken
+3901842500,Bike,M,589,Cancelled,Seafood,Online Portal,Damaged
+862904706,Bike,F,535,Cancelled,Continental,Online Portal,Packaging not Proper
+5469036863,Cycle,M,671,Cancelled,Seafood,Online Portal,Damaged
+4837062539,Walk,M,143,Cancelled,South Indian,Mobile App,Damaged
+5182764391,Cycle,F,346,Cancelled,Susi,Online Portal,Ordered mistaken
+13992678,Bike,M,560,Cancelled,South Indian,Mobile App,Damaged
+8783881034,Walk,M,752,Cancelled,Susi,Online Portal,Ordered mistaken
+9892708326,Cycle,M,134,Cancelled,Continental,Online Portal,Damaged
+4667717718,Cycle,F,515,Cancelled,North Indian,Online Portal,Ordered mistaken
+658553046,Walk,M,463,Cancelled,North Indian,Mobile App,Ordered mistaken
+8821275736,Walk,M,914,Cancelled,Continental,Online Portal,Ordered mistaken
+5690509728,Bike,F,755,Cancelled,Continental,Online Portal,Ordered mistaken
+7230064430,Walk,M,471,Cancelled,North Indian,Mobile App,Ordered mistaken
+1210050455,Bike,F,262,Cancelled,Susi,Mobile App,Packaging not Proper
+3368383159,Cycle,F,960,Cancelled,Susi,Mobile App,Ordered mistaken
+6529935088,Cycle,F,567,Cancelled,Susi,Online Portal,Ordered mistaken
+8004397751,Walk,F,1000,Cancelled,Seafood,Online Portal,Ordered mistaken
+197718213,Walk,F,757,Cancelled,North Indian,Online Portal,Ordered mistaken
+2598660404,Bike,M,596,Cancelled,South Indian,Online Portal,Ordered mistaken
+3552897798,Cycle,F,908,Cancelled,North Indian,Mobile App,Damaged
+6808715866,Cycle,M,481,Cancelled,South Indian,Mobile App,Ordered mistaken
+8063155173,Bike,F,593,Cancelled,South Indian,Mobile App,Ordered mistaken
+1095348930,Bike,M,645,Cancelled,Continental,Online Portal,Ordered mistaken
+440684250,Walk,M,513,Cancelled,Continental,Mobile App,Packaging not Proper
+4199951156,Walk,F,111,Cancelled,Susi,Online Portal,Damaged
+9004717307,Walk,M,247,Cancelled,Continental,Mobile App,Packaging not Proper
+6128272649,Walk,M,128,Cancelled,Seafood,Mobile App,Ordered mistaken
+4115765925,Walk,F,646,Cancelled,South Indian,Mobile App,Ordered mistaken
+841620377,Walk,F,819,Cancelled,Susi,Online Portal,Packaging not Proper
+4551114375,Bike,M,685,Cancelled,Susi,Mobile App,Ordered mistaken
+7592053284,Bike,M,819,Cancelled,North Indian,Online Portal,Damaged
+4580678648,Walk,M,357,Cancelled,South Indian,Mobile App,Damaged
+6678370627,Cycle,F,702,Cancelled,Seafood,Online Portal,Packaging not Proper
+2269079760,Bike,F,523,Cancelled,Continental,Mobile App,Ordered mistaken
+6220156536,Walk,M,532,Cancelled,Susi,Mobile App,Damaged
+4221734558,Cycle,M,307,Cancelled,North Indian,Online Portal,Damaged
+5074730805,Bike,M,571,Cancelled,Susi,Online Portal,Ordered mistaken
+7135992490,Walk,M,906,Cancelled,Continental,Mobile App,Ordered mistaken
+4245468858,Walk,M,727,Cancelled,Susi,Mobile App,Ordered mistaken
+4247966057,Cycle,M,877,Cancelled,North Indian,Online Portal,Ordered mistaken
+9523597795,Walk,M,797,Cancelled,Susi,Mobile App,Packaging not Proper
+6477211637,Walk,M,387,Cancelled,North Indian,Mobile App,Damaged
+9846480288,Bike,F,912,Cancelled,Seafood,Mobile App,Ordered mistaken
+7085042753,Bike,F,722,Cancelled,North Indian,Online Portal,Ordered mistaken
+576241784,Walk,M,513,Cancelled,Seafood,Online Portal,Packaging not Proper
+6908994619,Cycle,M,679,Cancelled,Seafood,Mobile App,Packaging not Proper
+4829669357,Cycle,F,822,Cancelled,Susi,Mobile App,Ordered mistaken
+3407408005,Walk,M,681,Cancelled,Continental,Mobile App,Ordered mistaken
+7328109637,Cycle,F,162,Cancelled,South Indian,Mobile App,Damaged
+2694614108,Cycle,F,488,Cancelled,Susi,Mobile App,Ordered mistaken
+5339899039,Walk,F,639,Cancelled,Seafood,Online Portal,Ordered mistaken
+8738819120,Cycle,M,365,Cancelled,Susi,Mobile App,Damaged
+7894472158,Bike,F,692,Cancelled,Continental,Mobile App,Damaged
+4357806747,Bike,M,345,Cancelled,Continental,Online Portal,Packaging not Proper
+1259819213,Bike,F,188,Cancelled,North Indian,Mobile App,Packaging not Proper
+4340019089,Bike,M,134,Cancelled,Susi,Mobile App,Damaged
+1533364834,Cycle,F,960,Cancelled,South Indian,Mobile App,Damaged
+3365212914,Walk,M,827,Cancelled,Continental,Online Portal,Ordered mistaken
+2962011411,Walk,F,572,Cancelled,Continental,Online Portal,Damaged
+9195307028,Cycle,F,456,Cancelled,South Indian,Mobile App,Ordered mistaken
+1243405325,Walk,F,562,Cancelled,Seafood,Online Portal,Damaged
+7589015636,Cycle,F,121,Cancelled,Susi,Mobile App,Damaged
+1400032970,Cycle,M,822,Cancelled,North Indian,Mobile App,Ordered mistaken
+711872198,Bike,M,715,Cancelled,South Indian,Mobile App,Ordered mistaken
+2667096363,Cycle,F,160,Cancelled,Continental,Mobile App,Damaged
+8776142795,Bike,M,141,Cancelled,Seafood,Mobile App,Ordered mistaken
+8829472905,Bike,F,386,Cancelled,Susi,Online Portal,Packaging not Proper
+9137395831,Bike,M,417,Cancelled,Seafood,Mobile App,Ordered mistaken
+6193297022,Bike,M,890,Cancelled,Seafood,Online Portal,Damaged
+5961269248,Walk,F,779,Cancelled,Seafood,Mobile App,Packaging not Proper
+6392171959,Walk,F,434,Cancelled,Seafood,Mobile App,Packaging not Proper
+6852279855,Bike,F,680,Cancelled,Seafood,Mobile App,Ordered mistaken
+7793396960,Cycle,M,969,Cancelled,Seafood,Mobile App,Ordered mistaken
+3940101699,Cycle,F,940,Cancelled,Susi,Online Portal,Damaged
+3941852728,Cycle,M,547,Cancelled,Continental,Mobile App,Damaged
+8900861530,Bike,M,522,Cancelled,Seafood,Mobile App,Damaged
+5815217670,Walk,F,626,Cancelled,Seafood,Mobile App,Packaging not Proper
+5370027439,Bike,F,655,Cancelled,Susi,Mobile App,Ordered mistaken
+7623212109,Bike,M,199,Cancelled,North Indian,Mobile App,Packaging not Proper
+1475736274,Cycle,F,454,Cancelled,Continental,Online Portal,Damaged
+2978090995,Walk,M,711,Cancelled,Seafood,Mobile App,Packaging not Proper
+4723019669,Walk,M,505,Cancelled,South Indian,Mobile App,Ordered mistaken
+6761261325,Cycle,F,596,Cancelled,South Indian,Online Portal,Packaging not Proper
+7211116749,Walk,M,106,Cancelled,Susi,Mobile App,Ordered mistaken
+2954023945,Bike,M,968,Cancelled,Susi,Online Portal,Damaged
+4582833128,Cycle,F,609,Cancelled,Susi,Online Portal,Damaged
+3740264314,Cycle,M,833,Cancelled,North Indian,Online Portal,Damaged
+8792222102,Cycle,F,497,Cancelled,South Indian,Mobile App,Damaged
+7635673777,Bike,F,222,Cancelled,Continental,Online Portal,Ordered mistaken
+6275319658,Cycle,F,221,Cancelled,Continental,Mobile App,Packaging not Proper
+9841408392,Bike,M,483,Cancelled,North Indian,Mobile App,Damaged
+4771570361,Cycle,M,945,Cancelled,South Indian,Online Portal,Ordered mistaken
+4776734974,Walk,M,572,Cancelled,Seafood,Mobile App,Damaged
+6106658501,Bike,M,532,Cancelled,Continental,Mobile App,Damaged
+9995905027,Bike,F,619,Cancelled,North Indian,Online Portal,Packaging not Proper
+7806759808,Bike,F,427,Cancelled,Seafood,Online Portal,Damaged
+8851379483,Cycle,M,882,Cancelled,South Indian,Online Portal,Ordered mistaken
+7684005596,Bike,F,851,Cancelled,Continental,Mobile App,Ordered mistaken
+1479154636,Cycle,F,474,Cancelled,South Indian,Mobile App,Ordered mistaken
+972132775,Cycle,M,137,Cancelled,Seafood,Mobile App,Damaged
+5237980090,Cycle,M,503,Cancelled,Susi,Online Portal,Packaging not Proper
+3370115042,Cycle,F,308,Cancelled,Continental,Online Portal,Ordered mistaken
+4459143305,Bike,F,649,Cancelled,Susi,Mobile App,Ordered mistaken
+8751967839,Cycle,F,318,Cancelled,Seafood,Mobile App,Ordered mistaken
+8832658828,Bike,M,793,Cancelled,Seafood,Online Portal,Ordered mistaken
+6258792170,Bike,F,182,Cancelled,Continental,Mobile App,Ordered mistaken
+2575184215,Cycle,F,123,Cancelled,Seafood,Mobile App,Packaging not Proper
+8965342767,Walk,M,692,Cancelled,Susi,Mobile App,Ordered mistaken
+8318776755,Cycle,F,805,Cancelled,Susi,Online Portal,Damaged
+3725685479,Cycle,F,338,Cancelled,Seafood,Online Portal,Packaging not Proper
+2559889587,Walk,M,440,Cancelled,North Indian,Mobile App,Ordered mistaken
+7710921868,Walk,F,467,Cancelled,Susi,Mobile App,Ordered mistaken
+6421879799,Cycle,F,152,Cancelled,South Indian,Mobile App,Ordered mistaken
+7985588698,Walk,F,959,Cancelled,North Indian,Mobile App,Ordered mistaken
+2469556732,Bike,F,253,Cancelled,North Indian,Mobile App,Ordered mistaken
+3315484066,Bike,M,395,Cancelled,Seafood,Online Portal,Packaging not Proper
+8859277787,Walk,F,380,Cancelled,South Indian,Online Portal,Packaging not Proper
+635848171,Bike,F,968,Cancelled,Seafood,Mobile App,Packaging not Proper
+4299671,Bike,F,769,Cancelled,Continental,Mobile App,Damaged
+7190990119,Bike,F,783,Cancelled,North Indian,Online Portal,Damaged
+9624413134,Bike,M,834,Cancelled,Seafood,Mobile App,Packaging not Proper
+4010608846,Walk,M,544,Cancelled,Continental,Online Portal,Ordered mistaken
+8642736410,Cycle,M,977,Cancelled,North Indian,Mobile App,Ordered mistaken
+7712934207,Cycle,M,631,Cancelled,Seafood,Mobile App,Damaged
+75971054,Walk,F,396,Cancelled,South Indian,Online Portal,Damaged
+6536582829,Cycle,F,660,Cancelled,Seafood,Mobile App,Damaged
+7474752344,Bike,M,612,Cancelled,North Indian,Mobile App,Ordered mistaken
+9161241539,Cycle,F,208,Cancelled,Susi,Online Portal,Ordered mistaken
+1075883075,Bike,F,976,Cancelled,Susi,Online Portal,Packaging not Proper
+3644213364,Walk,M,998,Cancelled,North Indian,Mobile App,Ordered mistaken
+6771032930,Walk,M,604,Cancelled,Seafood,Mobile App,Damaged
+9543985898,Cycle,M,656,Cancelled,Seafood,Online Portal,Ordered mistaken
+2549768205,Walk,M,477,Cancelled,Continental,Online Portal,Damaged
+5023375730,Cycle,F,324,Cancelled,Continental,Online Portal,Ordered mistaken
+5694656040,Walk,M,554,Cancelled,North Indian,Online Portal,Ordered mistaken
+3439189864,Bike,F,861,Cancelled,South Indian,Mobile App,Damaged
+2649424729,Bike,F,983,Cancelled,South Indian,Mobile App,Damaged
+5527819578,Bike,M,222,Cancelled,Seafood,Mobile App,Ordered mistaken
+5791716648,Bike,F,164,Cancelled,Continental,Online Portal,Ordered mistaken
+111537037,Bike,M,663,Cancelled,North Indian,Mobile App,Ordered mistaken
+2547738295,Cycle,F,859,Cancelled,North Indian,Online Portal,Ordered mistaken
+6162377563,Bike,M,248,Cancelled,Seafood,Online Portal,Ordered mistaken
+6221284376,Walk,M,353,Cancelled,Seafood,Online Portal,Ordered mistaken
+9734702378,Cycle,F,942,Cancelled,North Indian,Online Portal,Ordered mistaken
+539786152,Cycle,M,692,Cancelled,North Indian,Mobile App,Ordered mistaken
+814757561,Walk,F,463,Cancelled,South Indian,Mobile App,Packaging not Proper
+1189947757,Cycle,F,906,Cancelled,Susi,Online Portal,Ordered mistaken
+2784245845,Bike,F,639,Cancelled,North Indian,Online Portal,Damaged
+4380331393,Cycle,F,653,Cancelled,North Indian,Online Portal,Ordered mistaken
+5300055417,Bike,F,186,Cancelled,South Indian,Online Portal,Damaged
+8281163984,Walk,M,278,Cancelled,North Indian,Online Portal,Ordered mistaken
+578467488,Bike,F,628,Cancelled,Susi,Mobile App,Damaged
+6095689554,Cycle,F,467,Cancelled,South Indian,Online Portal,Ordered mistaken
+6204009591,Cycle,F,595,Cancelled,Continental,Online Portal,Ordered mistaken
+4348885656,Cycle,F,324,Cancelled,Seafood,Mobile App,Packaging not Proper
+2308505982,Cycle,M,407,Cancelled,North Indian,Online Portal,Ordered mistaken
+957169329,Cycle,F,556,Cancelled,South Indian,Online Portal,Ordered mistaken
+5966428069,Walk,M,121,Cancelled,North Indian,Mobile App,Damaged
+8075993993,Bike,F,565,Cancelled,Susi,Online Portal,Packaging not Proper
+6367966730,Walk,M,115,Cancelled,North Indian,Online Portal,Damaged
+7221473390,Cycle,M,461,Cancelled,North Indian,Mobile App,Packaging not Proper
+5334038493,Walk,F,308,Cancelled,Susi,Online Portal,Ordered mistaken
+7250440225,Bike,M,850,Cancelled,South Indian,Online Portal,Packaging not Proper
+400459973,Walk,M,706,Cancelled,South Indian,Online Portal,Ordered mistaken
+3651000915,Bike,M,507,Cancelled,North Indian,Online Portal,Packaging not Proper
+7798673105,Walk,M,671,Cancelled,Susi,Online Portal,Damaged
+5622809401,Bike,F,288,Cancelled,Continental,Mobile App,Damaged
+5861779740,Cycle,F,331,Cancelled,North Indian,Online Portal,Packaging not Proper
+6119153527,Cycle,M,296,Cancelled,South Indian,Mobile App,Ordered mistaken
+2614781908,Walk,F,554,Cancelled,North Indian,Mobile App,Ordered mistaken
+4306203077,Walk,F,251,Cancelled,Susi,Online Portal,Ordered mistaken
+8761745944,Bike,M,487,Cancelled,Seafood,Mobile App,Ordered mistaken
+7933058531,Walk,M,489,Cancelled,North Indian,Online Portal,Damaged
+9943711582,Cycle,F,134,Cancelled,Seafood,Mobile App,Ordered mistaken
+1964270839,Walk,F,171,Cancelled,South Indian,Mobile App,Ordered mistaken
+7400725009,Cycle,F,951,Cancelled,Seafood,Mobile App,Damaged
+4476212336,Walk,F,169,Cancelled,Seafood,Online Portal,Ordered mistaken
+656739126,Cycle,F,961,Cancelled,North Indian,Mobile App,Ordered mistaken
+1659105633,Cycle,F,276,Cancelled,Susi,Online Portal,Ordered mistaken
+7591078909,Walk,M,130,Cancelled,Seafood,Online Portal,Ordered mistaken
+4042002145,Bike,F,361,Cancelled,Continental,Online Portal,Damaged
+1944676376,Walk,M,196,Cancelled,Continental,Mobile App,Ordered mistaken
+2221720407,Walk,F,796,Cancelled,Susi,Online Portal,Ordered mistaken
+7395672577,Walk,F,547,Cancelled,Seafood,Online Portal,Damaged
+6625760943,Bike,M,496,Cancelled,Continental,Online Portal,Ordered mistaken
+4978132096,Cycle,F,750,Cancelled,North Indian,Online Portal,Damaged
+6041234265,Cycle,M,970,Cancelled,North Indian,Mobile App,Damaged
+825918499,Cycle,M,131,Cancelled,Seafood,Online Portal,Packaging not Proper
+7353350091,Walk,M,335,Cancelled,Susi,Online Portal,Damaged
+190285370,Cycle,M,866,Cancelled,Seafood,Online Portal,Packaging not Proper
+2558337211,Walk,F,618,Cancelled,North Indian,Online Portal,Damaged
+6235095236,Cycle,F,851,Cancelled,Seafood,Online Portal,Ordered mistaken
+8249027779,Walk,M,267,Cancelled,Continental,Mobile App,Ordered mistaken
+8155975452,Bike,M,611,Cancelled,Continental,Mobile App,Ordered mistaken
+2033729184,Bike,M,569,Cancelled,North Indian,Online Portal,Damaged
+356817369,Walk,F,524,Cancelled,Continental,Mobile App,Packaging not Proper
+7086495832,Cycle,M,887,Cancelled,Continental,Mobile App,Damaged
+8981689547,Walk,M,544,Cancelled,North Indian,Mobile App,Damaged
+9518203199,Bike,F,238,Cancelled,Susi,Online Portal,Ordered mistaken
+857209612,Cycle,M,439,Cancelled,Susi,Online Portal,Ordered mistaken
+3520574977,Cycle,F,846,Cancelled,Susi,Mobile App,Damaged
+1275286518,Cycle,M,427,Cancelled,Continental,Mobile App,Packaging not Proper
+2309776645,Bike,M,685,Cancelled,South Indian,Online Portal,Packaging not Proper
+1851059695,Bike,F,385,Cancelled,South Indian,Online Portal,Damaged
+3638641090,Bike,F,892,Cancelled,Susi,Online Portal,Packaging not Proper
+4158015545,Cycle,M,927,Cancelled,South Indian,Online Portal,Packaging not Proper
+150807856,Cycle,F,116,Cancelled,Seafood,Online Portal,Damaged
+7968382807,Cycle,M,829,Cancelled,South Indian,Mobile App,Damaged
+468950877,Cycle,F,615,Cancelled,South Indian,Mobile App,Ordered mistaken
+7832064323,Walk,F,164,Cancelled,North Indian,Online Portal,Ordered mistaken
+4097539698,Cycle,M,593,Cancelled,Susi,Online Portal,Damaged
+1708752242,Walk,M,514,Cancelled,North Indian,Mobile App,Ordered mistaken
+1853248746,Bike,M,630,Cancelled,South Indian,Online Portal,Ordered mistaken
+3943648885,Walk,M,263,Cancelled,South Indian,Online Portal,Damaged
+3890925642,Bike,F,145,Cancelled,North Indian,Mobile App,Ordered mistaken
+7082953798,Cycle,F,520,Cancelled,North Indian,Mobile App,Ordered mistaken
+7265610733,Bike,M,336,Cancelled,Continental,Mobile App,Packaging not Proper
+6981510006,Bike,M,614,Cancelled,North Indian,Mobile App,Packaging not Proper
+6142735413,Bike,M,422,Cancelled,Continental,Online Portal,Packaging not Proper
+8790469070,Walk,M,866,Cancelled,North Indian,Mobile App,Packaging not Proper
+1076127673,Bike,F,559,Cancelled,Continental,Mobile App,Ordered mistaken
+6838367920,Cycle,F,528,Cancelled,North Indian,Mobile App,Ordered mistaken
+6357451266,Bike,M,456,Cancelled,Susi,Online Portal,Packaging not Proper
+6400683410,Bike,F,603,Cancelled,North Indian,Online Portal,Ordered mistaken
+7157675900,Walk,M,543,Cancelled,North Indian,Online Portal,Packaging not Proper
+5070959735,Walk,M,872,Cancelled,Continental,Online Portal,Ordered mistaken
+3754143239,Cycle,F,503,Cancelled,North Indian,Mobile App,Ordered mistaken
+7234023836,Bike,M,236,Cancelled,North Indian,Mobile App,Ordered mistaken
+2003809929,Bike,M,325,Cancelled,North Indian,Online Portal,Ordered mistaken
+1092715495,Cycle,M,965,Cancelled,South Indian,Mobile App,Packaging not Proper
+732012643,Bike,M,327,Cancelled,North Indian,Online Portal,Ordered mistaken
+3488447170,Walk,F,375,Cancelled,Seafood,Mobile App,Ordered mistaken
+641395221,Bike,M,568,Cancelled,North Indian,Online Portal,Ordered mistaken
+3236794372,Walk,F,121,Cancelled,South Indian,Online Portal,Damaged
+4230956061,Cycle,F,890,Cancelled,North Indian,Mobile App,Packaging not Proper
+8392772628,Walk,F,484,Cancelled,Seafood,Mobile App,Packaging not Proper
+155895125,Walk,F,788,Cancelled,Susi,Mobile App,Packaging not Proper
+4322008518,Bike,F,737,Cancelled,North Indian,Mobile App,Packaging not Proper
+482839066,Bike,F,633,Cancelled,Susi,Online Portal,Ordered mistaken
+5730784449,Walk,M,871,Cancelled,Continental,Mobile App,Packaging not Proper
+8853077409,Walk,M,748,Cancelled,South Indian,Mobile App,Packaging not Proper
+1568858744,Cycle,F,579,Cancelled,Continental,Online Portal,Ordered mistaken
+1890308609,Walk,M,469,Cancelled,Continental,Mobile App,Ordered mistaken
+4401100166,Walk,F,759,Cancelled,South Indian,Mobile App,Ordered mistaken
+2494154898,Bike,M,182,Cancelled,Seafood,Online Portal,Ordered mistaken
+3550254466,Bike,F,465,Cancelled,Continental,Mobile App,Ordered mistaken
+7410625511,Walk,M,704,Cancelled,Seafood,Mobile App,Packaging not Proper
+8853705612,Walk,F,583,Cancelled,Seafood,Online Portal,Ordered mistaken
+7547752543,Bike,M,559,Cancelled,Seafood,Mobile App,Ordered mistaken
+3562939647,Cycle,M,318,Cancelled,Continental,Mobile App,Ordered mistaken
+4667765437,Cycle,M,803,Cancelled,South Indian,Online Portal,Packaging not Proper
+3933659043,Cycle,F,865,Cancelled,Continental,Mobile App,Packaging not Proper
+2323423304,Cycle,F,867,Cancelled,Continental,Mobile App,Ordered mistaken
+8391717186,Bike,M,197,Cancelled,Continental,Mobile App,Ordered mistaken
+8692616222,Cycle,F,414,Cancelled,South Indian,Online Portal,Ordered mistaken
+3647989126,Cycle,M,435,Cancelled,North Indian,Mobile App,Ordered mistaken
+9537054063,Bike,F,752,Cancelled,North Indian,Mobile App,Damaged
+6489757117,Bike,M,264,Cancelled,Seafood,Mobile App,Ordered mistaken
+2759644456,Walk,M,949,Cancelled,Susi,Mobile App,Ordered mistaken
+5187358790,Cycle,M,762,Cancelled,Seafood,Mobile App,Packaging not Proper
+9921171135,Bike,M,750,Cancelled,Susi,Mobile App,Damaged
+4289484018,Walk,F,223,Cancelled,Continental,Mobile App,Packaging not Proper
+201215004,Cycle,F,644,Cancelled,Continental,Mobile App,Packaging not Proper
+6031251426,Cycle,F,281,Cancelled,North Indian,Online Portal,Damaged
+959713980,Cycle,M,632,Cancelled,South Indian,Mobile App,Damaged
+5655252422,Walk,F,194,Cancelled,North Indian,Mobile App,Packaging not Proper
+8377794667,Cycle,F,679,Cancelled,South Indian,Mobile App,Damaged
+4238641353,Cycle,M,419,Cancelled,North Indian,Mobile App,Packaging not Proper
+155357298,Bike,F,856,Cancelled,South Indian,Mobile App,Ordered mistaken
+5502798690,Bike,M,197,Cancelled,North Indian,Online Portal,Packaging not Proper
+4933142440,Bike,M,329,Cancelled,Susi,Mobile App,Ordered mistaken
+2494003598,Walk,F,916,Cancelled,Susi,Online Portal,Ordered mistaken
+3135667693,Bike,M,371,Cancelled,Seafood,Online Portal,Ordered mistaken
+5101418471,Cycle,M,329,Cancelled,Continental,Mobile App,Ordered mistaken
+1923136445,Bike,F,388,Cancelled,South Indian,Mobile App,Damaged
+3399996101,Bike,M,630,Cancelled,North Indian,Mobile App,Damaged
+1708035966,Bike,M,863,Cancelled,Susi,Mobile App,Damaged
+92439160,Walk,F,500,Cancelled,Continental,Online Portal,Damaged
+6972779057,Cycle,F,601,Cancelled,Continental,Online Portal,Ordered mistaken
+5534509406,Bike,M,106,Cancelled,Susi,Online Portal,Damaged
+4613960657,Bike,M,458,Cancelled,Susi,Mobile App,Damaged
+8161956243,Cycle,M,108,Cancelled,North Indian,Mobile App,Packaging not Proper
+9252378634,Bike,F,485,Cancelled,Continental,Mobile App,Damaged
+4362929258,Walk,F,220,Cancelled,North Indian,Mobile App,Ordered mistaken
+2022016351,Cycle,F,548,Cancelled,Seafood,Online Portal,Ordered mistaken
+5651551085,Bike,M,664,Cancelled,Continental,Mobile App,Damaged
+585188521,Bike,M,112,Cancelled,Seafood,Online Portal,Damaged
+8388758969,Walk,M,977,Cancelled,North Indian,Online Portal,Ordered mistaken
+3267685680,Cycle,F,194,Cancelled,Susi,Mobile App,Ordered mistaken
+2955914673,Cycle,M,188,Cancelled,Continental,Online Portal,Damaged
+3041365723,Cycle,M,729,Cancelled,North Indian,Mobile App,Damaged
+9155665365,Walk,M,598,Cancelled,Susi,Online Portal,Packaging not Proper
+983761337,Cycle,F,491,Cancelled,Continental,Mobile App,Ordered mistaken
+1123693595,Walk,M,530,Cancelled,Susi,Online Portal,Damaged
+2022066235,Walk,M,945,Cancelled,South Indian,Mobile App,Damaged
+8992776683,Walk,M,111,Cancelled,Susi,Mobile App,Packaging not Proper
+5640641282,Bike,M,299,Cancelled,North Indian,Mobile App,Ordered mistaken
+9375590828,Bike,F,140,Cancelled,Susi,Online Portal,Damaged
+5704563996,Walk,M,480,Cancelled,Susi,Online Portal,Ordered mistaken
+5155315123,Cycle,M,235,Cancelled,North Indian,Mobile App,Packaging not Proper
+6519343129,Bike,M,808,Cancelled,Susi,Online Portal,Packaging not Proper
+7638745930,Cycle,F,806,Cancelled,North Indian,Online Portal,Damaged
+8935579246,Walk,F,216,Cancelled,Susi,Mobile App,Ordered mistaken
+1396314431,Cycle,F,632,Cancelled,North Indian,Online Portal,Ordered mistaken
+4655834986,Cycle,F,691,Cancelled,North Indian,Mobile App,Packaging not Proper
+7601828506,Bike,F,514,Cancelled,Continental,Mobile App,Damaged
+5560657107,Bike,F,513,Cancelled,North Indian,Online Portal,Ordered mistaken
+3762853118,Walk,M,643,Cancelled,South Indian,Mobile App,Ordered mistaken
+2115313801,Cycle,M,709,Cancelled,Seafood,Mobile App,Packaging not Proper
+3972599935,Bike,M,567,Cancelled,Susi,Online Portal,Damaged
+8148429200,Walk,M,114,Cancelled,Seafood,Mobile App,Ordered mistaken
+9406249073,Bike,M,108,Cancelled,Susi,Mobile App,Ordered mistaken
+8899968942,Bike,F,980,Cancelled,South Indian,Mobile App,Packaging not Proper
+4158079993,Walk,M,556,Cancelled,Susi,Mobile App,Ordered mistaken
+2597640442,Bike,M,356,Cancelled,Susi,Online Portal,Damaged
+2060154596,Cycle,M,941,Cancelled,Seafood,Online Portal,Ordered mistaken
+2888692341,Bike,M,477,Cancelled,South Indian,Mobile App,Damaged
+9984732835,Cycle,F,705,Cancelled,Continental,Online Portal,Ordered mistaken
+4749247456,Cycle,F,983,Cancelled,South Indian,Online Portal,Ordered mistaken
+488245583,Bike,F,601,Cancelled,Susi,Online Portal,Packaging not Proper
+1999513061,Bike,F,751,Cancelled,North Indian,Mobile App,Damaged
+3370338165,Cycle,F,239,Cancelled,North Indian,Online Portal,Ordered mistaken
+9836718869,Walk,M,675,Cancelled,Seafood,Online Portal,Packaging not Proper
+4266390580,Walk,M,706,Cancelled,Seafood,Mobile App,Packaging not Proper
+7874941721,Cycle,F,706,Cancelled,Seafood,Mobile App,Damaged
+2550572491,Cycle,F,956,Cancelled,North Indian,Mobile App,Damaged
+8698026265,Cycle,F,438,Cancelled,North Indian,Online Portal,Ordered mistaken
+3605591760,Bike,F,840,Cancelled,North Indian,Mobile App,Ordered mistaken
+9340119967,Cycle,F,480,Cancelled,Continental,Online Portal,Ordered mistaken
+2226891277,Walk,M,365,Cancelled,South Indian,Mobile App,Packaging not Proper
+3528751738,Bike,F,721,Cancelled,North Indian,Online Portal,Ordered mistaken
+4099069796,Bike,F,655,Cancelled,Seafood,Mobile App,Ordered mistaken
+2258308585,Bike,F,589,Cancelled,South Indian,Mobile App,Damaged
+794621546,Bike,F,119,Cancelled,North Indian,Online Portal,Ordered mistaken
+7407039097,Walk,M,272,Cancelled,Continental,Online Portal,Damaged
+5025572207,Bike,F,432,Cancelled,Susi,Online Portal,Damaged
+6384855003,Bike,M,935,Cancelled,South Indian,Mobile App,Ordered mistaken
+3114348300,Cycle,M,591,Cancelled,Susi,Mobile App,Damaged
+9570574410,Cycle,M,808,Cancelled,South Indian,Mobile App,Ordered mistaken
+3281255329,Cycle,M,779,Cancelled,North Indian,Mobile App,Packaging not Proper
+1777435013,Bike,F,981,Cancelled,Susi,Mobile App,Ordered mistaken
+6130766351,Cycle,F,186,Cancelled,North Indian,Online Portal,Ordered mistaken
+6107393900,Bike,F,337,Cancelled,Continental,Mobile App,Packaging not Proper
+4246757934,Walk,F,259,Cancelled,Susi,Mobile App,Ordered mistaken
+551729996,Bike,F,615,Cancelled,Seafood,Online Portal,Damaged
+9734029789,Bike,F,354,Cancelled,Susi,Mobile App,Damaged
+4039418883,Cycle,M,378,Cancelled,Seafood,Mobile App,Damaged
+6298313435,Bike,M,965,Cancelled,North Indian,Online Portal,Packaging not Proper
+7882544906,Cycle,M,944,Cancelled,North Indian,Online Portal,Ordered mistaken
+8328511126,Bike,F,154,Cancelled,Susi,Mobile App,Packaging not Proper
+2440707783,Walk,F,190,Cancelled,South Indian,Online Portal,Packaging not Proper
+6136715627,Cycle,F,104,Cancelled,Seafood,Mobile App,Ordered mistaken
+7009230099,Walk,F,533,Cancelled,South Indian,Online Portal,Ordered mistaken
+7525967067,Bike,F,869,Cancelled,Seafood,Online Portal,Ordered mistaken
+1369410298,Cycle,M,158,Cancelled,Continental,Online Portal,Packaging not Proper
+6584336050,Cycle,F,159,Cancelled,Seafood,Online Portal,Ordered mistaken
+8667625256,Bike,F,500,Cancelled,Susi,Mobile App,Packaging not Proper
+7675527445,Cycle,F,658,Cancelled,Susi,Online Portal,Packaging not Proper
+8801171021,Bike,F,394,Cancelled,North Indian,Mobile App,Ordered mistaken
+9753962282,Cycle,F,598,Cancelled,Continental,Online Portal,Ordered mistaken
+4524003142,Bike,F,666,Cancelled,North Indian,Mobile App,Packaging not Proper
+4777929558,Walk,M,408,Cancelled,Susi,Online Portal,Ordered mistaken
+5286431410,Cycle,F,730,Cancelled,Seafood,Online Portal,Damaged
+4726294008,Cycle,M,177,Cancelled,South Indian,Mobile App,Damaged
+9585840650,Walk,F,180,Cancelled,Continental,Mobile App,Ordered mistaken
+3582881261,Bike,F,403,Cancelled,Continental,Mobile App,Damaged
+5789599389,Cycle,M,765,Cancelled,Seafood,Mobile App,Ordered mistaken
+8733082456,Bike,M,644,Cancelled,Continental,Mobile App,Ordered mistaken
+8675871090,Bike,M,1000,Cancelled,Seafood,Mobile App,Ordered mistaken
+2862740586,Bike,F,884,Cancelled,Susi,Online Portal,Ordered mistaken
+8341035189,Bike,M,945,Cancelled,South Indian,Mobile App,Damaged
+8638603975,Bike,F,557,Cancelled,Seafood,Mobile App,Ordered mistaken
+9956604100,Walk,M,783,Cancelled,North Indian,Mobile App,Packaging not Proper
+1558663479,Bike,F,493,Cancelled,South Indian,Mobile App,Damaged
+4533481507,Bike,F,304,Cancelled,Susi,Mobile App,Ordered mistaken
+3873750708,Cycle,F,147,Cancelled,Continental,Mobile App,Damaged
+6839941248,Bike,M,351,Cancelled,Susi,Online Portal,Packaging not Proper
+7377833130,Bike,M,166,Cancelled,North Indian,Online Portal,Packaging not Proper
+2580005188,Walk,M,885,Cancelled,North Indian,Online Portal,Ordered mistaken
+3516676426,Cycle,M,757,Cancelled,South Indian,Mobile App,Ordered mistaken
+436237423,Walk,M,949,Cancelled,Seafood,Online Portal,Packaging not Proper
+5087552668,Walk,M,173,Cancelled,Seafood,Online Portal,Ordered mistaken
+3054170969,Bike,F,431,Cancelled,Susi,Mobile App,Damaged
+2130723985,Walk,F,711,Cancelled,Susi,Mobile App,Damaged
+5348644854,Walk,F,690,Cancelled,Seafood,Mobile App,Damaged
+5092152451,Cycle,M,782,Cancelled,Susi,Online Portal,Damaged
+9157725438,Walk,M,642,Cancelled,North Indian,Mobile App,Ordered mistaken
+4888887136,Cycle,M,960,Cancelled,Continental,Mobile App,Damaged
+7546116104,Cycle,M,330,Cancelled,Seafood,Online Portal,Damaged
+5226592744,Walk,F,663,Cancelled,Continental,Mobile App,Damaged
+1185227768,Walk,F,401,Cancelled,South Indian,Mobile App,Damaged
+2215020,Bike,M,909,Cancelled,Continental,Mobile App,Ordered mistaken
+660712946,Walk,F,447,Cancelled,Susi,Online Portal,Packaging not Proper
+1763065804,Cycle,M,888,Cancelled,Seafood,Online Portal,Ordered mistaken
+2266352946,Bike,F,664,Cancelled,Susi,Mobile App,Ordered mistaken
+5656681068,Cycle,M,134,Cancelled,Continental,Mobile App,Ordered mistaken
+1300135816,Bike,F,166,Cancelled,South Indian,Mobile App,Packaging not Proper
+6270921538,Bike,M,237,Cancelled,Continental,Online Portal,Ordered mistaken
+9853717980,Cycle,F,473,Cancelled,Susi,Online Portal,Packaging not Proper
+5215985588,Walk,F,407,Cancelled,Susi,Mobile App,Ordered mistaken
+2680630866,Walk,M,995,Cancelled,Susi,Mobile App,Packaging not Proper
+6702892039,Walk,F,450,Cancelled,North Indian,Online Portal,Ordered mistaken
+2017841021,Walk,M,304,Cancelled,North Indian,Online Portal,Ordered mistaken
+1888151021,Walk,F,443,Cancelled,South Indian,Online Portal,Ordered mistaken
+6029145045,Walk,M,173,Cancelled,North Indian,Online Portal,Damaged
+2845494009,Walk,M,227,Cancelled,Seafood,Online Portal,Damaged
+4523499632,Cycle,M,202,Cancelled,South Indian,Mobile App,Ordered mistaken
+1901918955,Cycle,F,493,Cancelled,Susi,Mobile App,Ordered mistaken
+2228699268,Bike,F,908,Cancelled,Susi,Online Portal,Damaged
+2366302576,Bike,M,920,Cancelled,Seafood,Mobile App,Ordered mistaken
+778056538,Walk,M,561,Cancelled,Seafood,Online Portal,Ordered mistaken
+1235963764,Bike,F,845,Cancelled,North Indian,Online Portal,Ordered mistaken
+1932514562,Walk,F,490,Cancelled,Susi,Online Portal,Ordered mistaken
+8633994453,Walk,F,340,Cancelled,North Indian,Mobile App,Packaging not Proper
+2274828806,Cycle,F,102,Cancelled,Continental,Online Portal,Ordered mistaken
+5234328643,Bike,F,416,Cancelled,North Indian,Mobile App,Packaging not Proper
+2659034184,Bike,M,983,Cancelled,Seafood,Online Portal,Ordered mistaken
+8340462970,Bike,M,161,Cancelled,Continental,Online Portal,Damaged
+5288540462,Bike,F,745,Cancelled,Continental,Mobile App,Packaging not Proper
+3552828419,Walk,F,790,Cancelled,South Indian,Mobile App,Packaging not Proper
+5698351295,Walk,M,264,Cancelled,South Indian,Online Portal,Ordered mistaken
+9390078180,Walk,M,266,Cancelled,Susi,Mobile App,Packaging not Proper
+6654604121,Cycle,M,209,Cancelled,South Indian,Online Portal,Ordered mistaken
+388804467,Cycle,M,782,Cancelled,North Indian,Online Portal,Ordered mistaken
+5245901137,Walk,F,253,Cancelled,Susi,Mobile App,Ordered mistaken
+518719391,Walk,F,824,Cancelled,Susi,Online Portal,Packaging not Proper
+9023374827,Bike,F,723,Cancelled,Susi,Mobile App,Damaged
+9630494388,Bike,F,468,Cancelled,North Indian,Online Portal,Packaging not Proper
+7823242117,Bike,M,220,Cancelled,South Indian,Online Portal,Ordered mistaken
+2357232315,Bike,M,681,Cancelled,South Indian,Online Portal,Packaging not Proper
+710335326,Walk,M,210,Cancelled,Susi,Mobile App,Packaging not Proper
+8012359162,Cycle,F,756,Cancelled,Seafood,Mobile App,Damaged
+4363071931,Walk,M,318,Cancelled,Susi,Mobile App,Ordered mistaken
+8271267671,Cycle,F,851,Cancelled,North Indian,Mobile App,Ordered mistaken
+1599517418,Bike,M,675,Cancelled,Susi,Online Portal,Ordered mistaken
+882805223,Bike,F,340,Cancelled,Continental,Mobile App,Damaged
+9248851037,Cycle,F,568,Cancelled,Susi,Mobile App,Ordered mistaken
+8193573137,Bike,M,838,Cancelled,Susi,Mobile App,Ordered mistaken
+7426905705,Cycle,F,672,Cancelled,Susi,Online Portal,Packaging not Proper
+2810936455,Walk,M,180,Cancelled,Seafood,Mobile App,Ordered mistaken
+3103405936,Cycle,F,671,Cancelled,Seafood,Mobile App,Damaged
+8801823894,Bike,M,611,Cancelled,North Indian,Online Portal,Ordered mistaken
+6259678894,Cycle,F,657,Cancelled,Susi,Mobile App,Packaging not Proper
+2264494239,Cycle,M,991,Cancelled,Seafood,Online Portal,Ordered mistaken
+4307330838,Cycle,F,829,Cancelled,North Indian,Mobile App,Packaging not Proper
+3784082491,Cycle,F,538,Cancelled,Susi,Online Portal,Ordered mistaken
+8374328436,Cycle,M,963,Cancelled,South Indian,Mobile App,Ordered mistaken
+5188268329,Bike,M,199,Cancelled,South Indian,Mobile App,Ordered mistaken
+8335776334,Walk,F,326,Cancelled,Seafood,Online Portal,Ordered mistaken
+369024095,Bike,F,127,Cancelled,Continental,Mobile App,Packaging not Proper
+2947012321,Bike,M,180,Cancelled,Susi,Mobile App,Ordered mistaken
+5233512408,Cycle,M,870,Cancelled,Continental,Mobile App,Ordered mistaken
+8874813562,Bike,M,827,Cancelled,Continental,Mobile App,Ordered mistaken
+6058661404,Walk,F,865,Cancelled,Continental,Online Portal,Damaged
+7547467687,Cycle,M,335,Cancelled,Susi,Mobile App,Damaged
+6440082159,Cycle,M,701,Cancelled,South Indian,Online Portal,Damaged
+5649565724,Walk,M,262,Cancelled,Susi,Mobile App,Damaged
+1625328648,Cycle,F,313,Cancelled,North Indian,Online Portal,Packaging not Proper
+1262373034,Bike,M,850,Cancelled,Continental,Online Portal,Packaging not Proper
+1893637360,Cycle,M,415,Cancelled,Seafood,Online Portal,Ordered mistaken
+9976847068,Walk,F,104,Cancelled,Seafood,Mobile App,Ordered mistaken
+4619181153,Bike,M,549,Cancelled,South Indian,Mobile App,Ordered mistaken
+2885339306,Cycle,M,786,Cancelled,South Indian,Mobile App,Ordered mistaken
+5185752920,Bike,M,728,Cancelled,South Indian,Online Portal,Packaging not Proper
+4778452925,Walk,F,411,Cancelled,Susi,Mobile App,Packaging not Proper
+986714747,Cycle,M,267,Cancelled,Susi,Mobile App,Packaging not Proper
+826034799,Bike,F,808,Cancelled,Susi,Mobile App,Ordered mistaken
+6405860361,Walk,F,707,Cancelled,Susi,Mobile App,Damaged
+3993216156,Bike,M,541,Cancelled,Seafood,Online Portal,Ordered mistaken
+1250038731,Bike,M,616,Cancelled,Seafood,Online Portal,Packaging not Proper
+5316402014,Walk,M,983,Cancelled,Continental,Mobile App,Packaging not Proper
+4797806494,Bike,F,800,Cancelled,North Indian,Online Portal,Ordered mistaken
+2152974360,Bike,F,841,Cancelled,Susi,Mobile App,Damaged
+8246528106,Walk,F,790,Cancelled,North Indian,Mobile App,Ordered mistaken
+2324316935,Walk,M,227,Cancelled,Susi,Mobile App,Ordered mistaken
+9450956006,Bike,M,349,Cancelled,Continental,Mobile App,Ordered mistaken
+4082199101,Walk,M,601,Cancelled,Continental,Mobile App,Ordered mistaken
+4835843509,Cycle,M,984,Cancelled,Continental,Mobile App,Ordered mistaken
+5622863155,Bike,F,673,Cancelled,North Indian,Mobile App,Ordered mistaken
+3985501580,Bike,M,1000,Cancelled,North Indian,Online Portal,Damaged
+9089693734,Cycle,M,247,Cancelled,Seafood,Online Portal,Ordered mistaken
+8006916594,Bike,F,672,Cancelled,Continental,Online Portal,Packaging not Proper
+2865272036,Bike,M,528,Cancelled,North Indian,Online Portal,Ordered mistaken
+9014571534,Cycle,M,165,Cancelled,South Indian,Online Portal,Ordered mistaken
+2784257622,Cycle,F,569,Cancelled,Susi,Mobile App,Ordered mistaken
+499720490,Bike,M,911,Cancelled,Seafood,Mobile App,Packaging not Proper
+7470325395,Bike,M,658,Cancelled,South Indian,Online Portal,Damaged
+5862296891,Cycle,F,825,Cancelled,Continental,Mobile App,Damaged
+8101241450,Bike,F,194,Cancelled,Susi,Online Portal,Ordered mistaken
+4716428915,Bike,M,323,Cancelled,Seafood,Online Portal,Damaged
+3044838924,Cycle,F,785,Cancelled,Continental,Online Portal,Packaging not Proper
+8422301318,Bike,F,785,Cancelled,North Indian,Online Portal,Ordered mistaken
+9582524138,Walk,M,216,Cancelled,North Indian,Mobile App,Packaging not Proper
+3297684674,Cycle,F,883,Cancelled,South Indian,Online Portal,Ordered mistaken
+4717707028,Cycle,F,349,Cancelled,Susi,Mobile App,Packaging not Proper
+4753888800,Cycle,M,151,Cancelled,Continental,Online Portal,Packaging not Proper
+3154095071,Walk,M,388,Cancelled,South Indian,Mobile App,Ordered mistaken
+8084134256,Walk,F,855,Cancelled,Susi,Mobile App,Packaging not Proper
+3313201547,Cycle,M,827,Cancelled,North Indian,Online Portal,Damaged
+8222216627,Bike,M,320,Cancelled,South Indian,Mobile App,Ordered mistaken
+9249333560,Walk,M,181,Cancelled,North Indian,Mobile App,Packaging not Proper
+8574521914,Cycle,F,376,Cancelled,Continental,Mobile App,Ordered mistaken
+8065563228,Bike,F,541,Cancelled,Susi,Mobile App,Ordered mistaken
+4819903578,Bike,F,880,Cancelled,Seafood,Online Portal,Damaged
+3089982293,Cycle,F,663,Cancelled,Seafood,Mobile App,Ordered mistaken
+2404974815,Cycle,M,234,Cancelled,South Indian,Mobile App,Ordered mistaken
+827530099,Cycle,M,570,Cancelled,Seafood,Online Portal,Ordered mistaken
+8177690426,Walk,F,692,Cancelled,North Indian,Mobile App,Ordered mistaken
+5198167533,Bike,F,824,Cancelled,Susi,Mobile App,Packaging not Proper
+6416201356,Bike,F,939,Cancelled,South Indian,Online Portal,Packaging not Proper
+3783950201,Cycle,F,913,Cancelled,South Indian,Mobile App,Ordered mistaken
+7670222859,Cycle,F,879,Cancelled,Continental,Online Portal,Ordered mistaken
+3522513282,Cycle,M,818,Cancelled,South Indian,Mobile App,Packaging not Proper
+6450919345,Cycle,F,621,Cancelled,North Indian,Online Portal,Ordered mistaken
+7958232454,Walk,F,920,Cancelled,South Indian,Mobile App,Ordered mistaken
+5896371527,Cycle,F,995,Cancelled,South Indian,Mobile App,Ordered mistaken
+1817755617,Bike,F,295,Cancelled,North Indian,Mobile App,Damaged
+5609891876,Bike,F,583,Cancelled,South Indian,Mobile App,Ordered mistaken
+155255975,Walk,M,608,Cancelled,Susi,Online Portal,Damaged
+8958727845,Cycle,M,124,Cancelled,Susi,Online Portal,Damaged
+6712597218,Bike,F,731,Cancelled,South Indian,Online Portal,Damaged
+8987652521,Bike,F,874,Cancelled,Seafood,Online Portal,Ordered mistaken
+8351359238,Walk,F,554,Cancelled,Continental,Online Portal,Damaged
+1515085678,Walk,F,344,Cancelled,Continental,Online Portal,Packaging not Proper
+2503291260,Cycle,M,561,Cancelled,North Indian,Mobile App,Packaging not Proper
+2128758238,Cycle,F,813,Cancelled,Seafood,Online Portal,Damaged
+7563249591,Bike,M,695,Cancelled,Susi,Online Portal,Ordered mistaken
+6034169925,Cycle,F,513,Cancelled,Seafood,Mobile App,Packaging not Proper
+6157624299,Cycle,M,621,Cancelled,Susi,Online Portal,Packaging not Proper
+1047571412,Bike,M,635,Cancelled,Continental,Online Portal,Ordered mistaken
+3358674215,Walk,F,782,Cancelled,Susi,Mobile App,Ordered mistaken
+486768503,Walk,M,381,Cancelled,Seafood,Mobile App,Ordered mistaken
+1746238534,Bike,F,101,Cancelled,North Indian,Mobile App,Ordered mistaken
+5004569584,Cycle,M,545,Cancelled,Susi,Mobile App,Packaging not Proper
+4583249748,Walk,M,388,Cancelled,Continental,Mobile App,Ordered mistaken
+3228774503,Cycle,M,967,Cancelled,Seafood,Mobile App,Ordered mistaken
+6278279886,Cycle,F,166,Cancelled,Susi,Online Portal,Damaged
+8309640978,Walk,M,788,Cancelled,North Indian,Mobile App,Packaging not Proper
+6483625626,Cycle,F,105,Cancelled,South Indian,Online Portal,Damaged
+4639380070,Bike,F,439,Cancelled,Continental,Mobile App,Ordered mistaken
+4603946058,Cycle,F,536,Cancelled,South Indian,Online Portal,Packaging not Proper
+6583005190,Bike,F,631,Cancelled,Seafood,Online Portal,Packaging not Proper
+7851911079,Cycle,F,728,Cancelled,Continental,Mobile App,Packaging not Proper
+2812606479,Walk,M,647,Cancelled,Seafood,Mobile App,Ordered mistaken
+6941191341,Walk,M,368,Cancelled,North Indian,Online Portal,Damaged
+892367806,Walk,F,163,Cancelled,North Indian,Online Portal,Packaging not Proper
+6233759498,Cycle,M,896,Cancelled,North Indian,Mobile App,Ordered mistaken
+7549663297,Cycle,F,407,Cancelled,Susi,Online Portal,Ordered mistaken
+3495437576,Walk,F,563,Cancelled,Susi,Online Portal,Damaged
+5354736633,Walk,M,727,Cancelled,Continental,Online Portal,Ordered mistaken
+1955616086,Cycle,M,127,Cancelled,North Indian,Mobile App,Damaged
+1439386927,Bike,M,722,Cancelled,Seafood,Mobile App,Ordered mistaken
+4387223359,Bike,F,151,Cancelled,Susi,Online Portal,Ordered mistaken
+3932880749,Cycle,M,373,Cancelled,Susi,Mobile App,Packaging not Proper
+6492056280,Bike,M,127,Cancelled,Continental,Online Portal,Ordered mistaken
+4539782436,Walk,M,597,Cancelled,Susi,Mobile App,Ordered mistaken
+4302838922,Walk,M,541,Cancelled,Continental,Online Portal,Ordered mistaken
+8576927039,Walk,M,726,Cancelled,South Indian,Online Portal,Ordered mistaken
+719989965,Walk,F,847,Cancelled,Continental,Online Portal,Ordered mistaken
+849613574,Walk,M,214,Cancelled,Continental,Mobile App,Ordered mistaken
+6208439752,Walk,F,799,Cancelled,South Indian,Online Portal,Damaged
+6160157493,Cycle,F,494,Cancelled,South Indian,Mobile App,Ordered mistaken
+3272746196,Bike,M,508,Cancelled,North Indian,Online Portal,Ordered mistaken
+7155659487,Bike,F,197,Cancelled,North Indian,Mobile App,Packaging not Proper
+2216894540,Cycle,M,970,Cancelled,North Indian,Online Portal,Damaged
+9652930857,Bike,M,911,Cancelled,Continental,Online Portal,Damaged
+8669950537,Walk,M,509,Cancelled,South Indian,Online Portal,Ordered mistaken
+4189537012,Walk,M,125,Cancelled,Susi,Online Portal,Ordered mistaken
+1410608883,Cycle,M,247,Cancelled,North Indian,Mobile App,Ordered mistaken
+5263196539,Walk,M,417,Cancelled,Continental,Mobile App,Damaged
+2043887416,Bike,F,466,Cancelled,North Indian,Mobile App,Ordered mistaken
+6179189382,Bike,F,623,Cancelled,South Indian,Online Portal,Packaging not Proper
+8341908271,Walk,M,686,Cancelled,North Indian,Mobile App,Packaging not Proper
+8841573465,Bike,F,142,Cancelled,North Indian,Mobile App,Ordered mistaken
+1107060087,Bike,F,775,Cancelled,South Indian,Mobile App,Ordered mistaken
+8155557057,Cycle,F,167,Cancelled,South Indian,Mobile App,Ordered mistaken
+6416262347,Cycle,M,959,Cancelled,Susi,Mobile App,Ordered mistaken
+5214474563,Walk,M,643,Cancelled,Seafood,Online Portal,Ordered mistaken
+7163847777,Cycle,F,145,Cancelled,Seafood,Online Portal,Ordered mistaken
+5704785751,Walk,M,274,Cancelled,South Indian,Online Portal,Packaging not Proper
+1544201869,Cycle,M,374,Cancelled,South Indian,Online Portal,Packaging not Proper
+2527939597,Bike,F,472,Cancelled,South Indian,Online Portal,Damaged
+4836412552,Bike,F,525,Cancelled,Continental,Online Portal,Packaging not Proper
+8658886794,Walk,M,269,Cancelled,Continental,Online Portal,Damaged
+779253477,Cycle,M,181,Cancelled,North Indian,Online Portal,Ordered mistaken
+6890155815,Cycle,M,793,Cancelled,Susi,Mobile App,Ordered mistaken
+1656933748,Walk,F,314,Cancelled,North Indian,Online Portal,Damaged
+4918514324,Bike,M,587,Cancelled,North Indian,Online Portal,Ordered mistaken
+9021593386,Bike,M,530,Cancelled,Susi,Mobile App,Ordered mistaken
+6510484064,Walk,M,843,Cancelled,South Indian,Online Portal,Damaged
+6548803191,Walk,M,737,Cancelled,North Indian,Online Portal,Damaged
+6430325393,Cycle,M,382,Cancelled,North Indian,Mobile App,Ordered mistaken
+6121816678,Cycle,M,992,Cancelled,Seafood,Mobile App,Packaging not Proper
+1344367585,Cycle,F,251,Cancelled,South Indian,Online Portal,Damaged
+4099906523,Walk,M,417,Cancelled,Susi,Online Portal,Packaging not Proper
+8303771620,Cycle,M,793,Cancelled,Seafood,Online Portal,Packaging not Proper
+2820680550,Bike,M,839,Cancelled,Continental,Online Portal,Damaged
+3479910939,Bike,M,735,Cancelled,Continental,Online Portal,Ordered mistaken
+1826070125,Bike,M,770,Cancelled,Seafood,Online Portal,Damaged
+9113840517,Bike,M,213,Cancelled,Seafood,Online Portal,Packaging not Proper
+434951374,Walk,F,540,Cancelled,South Indian,Online Portal,Ordered mistaken
+9752969003,Walk,M,518,Cancelled,Continental,Online Portal,Packaging not Proper
+7435040274,Bike,F,368,Cancelled,Continental,Online Portal,Ordered mistaken
+1470580209,Walk,M,468,Cancelled,Seafood,Mobile App,Damaged
+5071075040,Bike,M,954,Cancelled,Continental,Online Portal,Packaging not Proper
+3929057131,Walk,M,516,Cancelled,North Indian,Online Portal,Packaging not Proper
+485951231,Cycle,M,514,Cancelled,South Indian,Online Portal,Ordered mistaken
+1047877945,Bike,F,282,Cancelled,South Indian,Online Portal,Ordered mistaken
+649212401,Bike,F,454,Cancelled,North Indian,Online Portal,Ordered mistaken
+1458401227,Bike,M,956,Cancelled,North Indian,Online Portal,Ordered mistaken
+5986983823,Walk,F,590,Cancelled,North Indian,Mobile App,Ordered mistaken
+3817628846,Walk,F,992,Cancelled,Seafood,Mobile App,Ordered mistaken
+5711532219,Cycle,M,481,Cancelled,South Indian,Mobile App,Ordered mistaken
+5117164040,Bike,M,408,Cancelled,Continental,Online Portal,Packaging not Proper
+1839712082,Walk,M,802,Cancelled,Continental,Online Portal,Damaged
+622731874,Bike,F,315,Cancelled,Seafood,Mobile App,Damaged
+1625345534,Cycle,F,160,Cancelled,Seafood,Online Portal,Packaging not Proper
+6198547655,Walk,F,431,Cancelled,Continental,Mobile App,Packaging not Proper
+3549566840,Cycle,F,720,Cancelled,Susi,Online Portal,Ordered mistaken
+5610235626,Cycle,F,598,Cancelled,North Indian,Mobile App,Ordered mistaken
+5875376570,Walk,F,231,Cancelled,Continental,Online Portal,Packaging not Proper
+3057363946,Cycle,F,136,Cancelled,North Indian,Online Portal,Packaging not Proper
+2238836381,Walk,F,374,Cancelled,Continental,Online Portal,Damaged
+14892324,Walk,M,760,Cancelled,Seafood,Online Portal,Damaged
+3532930609,Cycle,F,746,Cancelled,Susi,Online Portal,Ordered mistaken
+2077735880,Bike,M,332,Cancelled,Seafood,Online Portal,Ordered mistaken
+376848847,Bike,F,310,Cancelled,South Indian,Mobile App,Packaging not Proper
+6224454760,Walk,F,893,Cancelled,South Indian,Online Portal,Ordered mistaken
+9681990978,Walk,F,285,Cancelled,Continental,Online Portal,Ordered mistaken
+2614871745,Walk,F,710,Cancelled,Susi,Online Portal,Packaging not Proper
+9318696841,Walk,M,517,Cancelled,South Indian,Mobile App,Ordered mistaken
+2437140476,Cycle,F,604,Cancelled,Continental,Mobile App,Ordered mistaken
+1271943328,Cycle,F,785,Cancelled,Continental,Mobile App,Packaging not Proper
+5869942284,Walk,F,391,Cancelled,South Indian,Online Portal,Damaged
+5220191101,Cycle,F,565,Cancelled,Continental,Mobile App,Damaged
+645644870,Cycle,F,529,Cancelled,South Indian,Online Portal,Ordered mistaken
+3414050390,Walk,F,942,Cancelled,Seafood,Online Portal,Packaging not Proper
+9481102378,Cycle,M,415,Cancelled,South Indian,Online Portal,Packaging not Proper
+5959550423,Bike,M,547,Cancelled,North Indian,Online Portal,Damaged
+2504994117,Bike,F,293,Cancelled,South Indian,Mobile App,Damaged
+1732229600,Walk,M,384,Cancelled,North Indian,Mobile App,Packaging not Proper
+1701033283,Bike,F,559,Cancelled,South Indian,Online Portal,Damaged
+4282084960,Walk,F,958,Cancelled,Susi,Online Portal,Ordered mistaken
+9741954190,Walk,F,635,Cancelled,Seafood,Online Portal,Ordered mistaken
+3246424322,Bike,M,444,Cancelled,Continental,Online Portal,Ordered mistaken
+3288786524,Bike,F,881,Cancelled,Seafood,Online Portal,Ordered mistaken
+4754070518,Walk,M,699,Cancelled,South Indian,Mobile App,Ordered mistaken
+4927202488,Walk,F,622,Cancelled,South Indian,Mobile App,Ordered mistaken
+3635739960,Bike,F,133,Cancelled,Continental,Online Portal,Damaged
+1762576678,Cycle,M,368,Cancelled,Continental,Mobile App,Damaged
+4504241862,Walk,M,550,Cancelled,Continental,Mobile App,Packaging not Proper
+8538717898,Walk,M,521,Cancelled,Susi,Online Portal,Packaging not Proper
+8478188533,Cycle,F,792,Cancelled,Seafood,Online Portal,Ordered mistaken
+7485781138,Walk,M,458,Cancelled,Susi,Online Portal,Damaged
+6010122805,Cycle,F,280,Cancelled,North Indian,Online Portal,Ordered mistaken
+5081012793,Walk,M,202,Cancelled,South Indian,Online Portal,Ordered mistaken
+3224371560,Walk,M,376,Cancelled,South Indian,Mobile App,Ordered mistaken
+4039766334,Cycle,F,409,Cancelled,South Indian,Mobile App,Packaging not Proper
+1406578711,Bike,F,385,Cancelled,Susi,Mobile App,Ordered mistaken
+1610715969,Walk,M,741,Cancelled,North Indian,Mobile App,Ordered mistaken
+790937867,Cycle,M,813,Cancelled,North Indian,Mobile App,Damaged
+372481353,Walk,F,331,Cancelled,North Indian,Online Portal,Packaging not Proper
+8136382921,Bike,F,154,Cancelled,Susi,Mobile App,Packaging not Proper
+6234311121,Cycle,F,225,Cancelled,Seafood,Mobile App,Packaging not Proper
+3351164718,Cycle,M,305,Cancelled,Seafood,Mobile App,Packaging not Proper
+1003343899,Bike,F,720,Cancelled,Seafood,Mobile App,Damaged
+8858097130,Cycle,M,927,Cancelled,Continental,Online Portal,Packaging not Proper
+1580268501,Walk,F,861,Cancelled,Susi,Mobile App,Ordered mistaken
+6270930146,Walk,F,703,Cancelled,South Indian,Mobile App,Packaging not Proper
+5406572148,Walk,F,967,Cancelled,Continental,Mobile App,Packaging not Proper
+4863354967,Bike,M,673,Cancelled,Continental,Mobile App,Packaging not Proper
+6904311347,Bike,F,448,Cancelled,Susi,Online Portal,Ordered mistaken
+4079080468,Walk,F,595,Cancelled,Continental,Online Portal,Ordered mistaken
+6781575023,Walk,M,624,Cancelled,South Indian,Mobile App,Ordered mistaken
+7497556142,Cycle,F,521,Cancelled,Seafood,Mobile App,Ordered mistaken
+590053442,Bike,F,283,Cancelled,Continental,Online Portal,Damaged
+3095249616,Walk,M,656,Cancelled,Seafood,Online Portal,Ordered mistaken
+1272004902,Bike,M,574,Cancelled,North Indian,Mobile App,Ordered mistaken
+540755508,Walk,M,928,Cancelled,Susi,Online Portal,Damaged
+208922504,Walk,F,652,Cancelled,Continental,Mobile App,Packaging not Proper
+4085929038,Bike,M,782,Cancelled,Seafood,Mobile App,Ordered mistaken
+4421061956,Bike,M,818,Cancelled,North Indian,Online Portal,Damaged
+2167118023,Walk,F,242,Cancelled,Seafood,Online Portal,Packaging not Proper
+9764049435,Walk,M,829,Cancelled,Susi,Mobile App,Damaged
+3217232860,Bike,M,503,Cancelled,North Indian,Mobile App,Damaged
+890197237,Cycle,F,707,Cancelled,South Indian,Online Portal,Ordered mistaken
+1370988842,Walk,M,234,Cancelled,North Indian,Mobile App,Ordered mistaken
+3577482761,Cycle,M,116,Cancelled,Susi,Mobile App,Ordered mistaken
+8676132976,Cycle,F,408,Cancelled,Continental,Online Portal,Packaging not Proper
+3828499961,Walk,F,892,Cancelled,South Indian,Online Portal,Ordered mistaken
+2541104308,Walk,F,561,Cancelled,Susi,Mobile App,Ordered mistaken
+8719946880,Bike,F,950,Cancelled,Susi,Mobile App,Damaged
+7254157587,Walk,M,982,Cancelled,Continental,Mobile App,Ordered mistaken
+360482058,Bike,F,951,Cancelled,Continental,Online Portal,Ordered mistaken
+5556844267,Bike,F,360,Cancelled,North Indian,Mobile App,Ordered mistaken
+5605896741,Bike,F,309,Cancelled,North Indian,Online Portal,Packaging not Proper
+5258317811,Walk,F,1000,Cancelled,Susi,Online Portal,Ordered mistaken
+4235651544,Cycle,F,162,Cancelled,Susi,Mobile App,Damaged
+9253057386,Cycle,M,985,Cancelled,Continental,Online Portal,Ordered mistaken
+1088000991,Walk,F,681,Cancelled,Seafood,Mobile App,Ordered mistaken
+6646718121,Cycle,F,500,Cancelled,Continental,Mobile App,Ordered mistaken
+5574894777,Walk,F,241,Cancelled,Continental,Online Portal,Packaging not Proper
+4453754728,Bike,M,719,Cancelled,Continental,Online Portal,Ordered mistaken
+5954164738,Walk,F,487,Cancelled,North Indian,Mobile App,Ordered mistaken
+5415725563,Walk,F,134,Cancelled,Seafood,Online Portal,Ordered mistaken
+4031587015,Walk,M,431,Cancelled,Continental,Mobile App,Packaging not Proper
+1902153308,Walk,M,568,Cancelled,Continental,Mobile App,Ordered mistaken
+9966588930,Walk,M,954,Cancelled,Seafood,Mobile App,Ordered mistaken

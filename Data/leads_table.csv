@@ -1,0 +1,701 @@
+lead_id,first_name,last_name,gender,topic,status,date,lead_source,rating,city,state
+2370365552,Ricky,Kimberley,Female,order food,qualified,2020-03-22 10:05:01,Employee Referral,cold,2,2
+6896539364,Brice,Tristram,Male,wiggy SUPER 1 year membership,qualified,2020-01-17 08:47:46,web,hot,2,4
+0999333852,Julius,Cohrs,Male,order food,cancelled,2020-02-29 18:53:51,Employee Referral,hot,3,2
+2069732258,Gabriello,Gimenez,Male,wiggy SUPER 1 year membership,qualified,2020-04-03 03:32:15,Web,cold,2,4
+9050381316,Corrine,Huckleby,Female,order food,qualified,2020-01-06 00:09:08,Word of Mouth,Warm,4,2
+8780733859,Mycah,Reith,Male,order food,qualified,2020-03-21 08:29:48,web,cold,3,1
+2100732528,Morganica,Gurko,Female,wants register hotel,qualified,2020-02-01 17:44:46,Word of Mouth,hot,4,2
+5342262992,Tamar,Bowditch,Female,order food,qualified,2020-02-15 20:02:04,Advertisement,Warm,1,3
+5862005994,Linc,Hanley,Male,add new dish,qualified,2020-02-15 06:21:11,Word of Mouth,Warm,4,1
+2227596007,Dionisio,Bowkley,Male,add new dish,qualified,2020-02-28 07:30:58,web,Warm,3,1
+3362294979,Goldy,Rubinek,Female,wiggy SUPER 1 year membership,qualified,2020-03-29 15:38:57,web,cold,1,2
+5955146865,Bernetta,Sandry,Female,order food,qualified,2020-02-18 08:54:26,Seminar,cold,2,2
+1236073185,Abagail,Golbourn,Female,order food,cancelled,2020-01-11 20:50:46,web,hot,2,1
+3523350042,Charlot,Hannum,Female,wiggy SUPER 1 year membership,cancelled,2020-03-09 03:40:35,Advertisement,cold,3,1
+8608956837,Rudd,Ludman,Male,order food,cancelled,2020-01-14 15:48:18,web,cold,4,4
+2370375086,Holt,Maudson,Male,order food,qualified,2020-03-22 15:16:05,Seminar,hot,1,1
+0038288710,Leonhard,Chate,Male,add new dish,cancelled,2020-01-10 06:29:40,Advertisement,Warm,2,1
+6232224418,Gretta,Cullin,Female,wants register hotel,cancelled,2020-02-11 19:14:37,Employee Referral,cold,3,2
+5767517088,Glynnis,Jan,Female,wiggy SUPER 1 year membership,qualified,2020-03-10 19:07:52,Employee Referral,Warm,2,3
+3448904910,Evvie,Yeowell,Female,wants register hotel,qualified,2020-03-09 18:36:18,web,Warm,1,2
+6881340648,Averyl,Norvel,Female,order food,cancelled,2020-01-26 08:10:39,web,cold,4,2
+8313749539,Ingrim,Langfitt,Male,add new dish,qualified,2020-01-22 12:14:05,web,cold,1,1
+7543827867,Toddy,Kundt,Male,add new dish,qualified,2020-03-07 05:40:34,Seminar,hot,3,2
+2602836060,Fianna,Whyke,Female,wants register hotel,cancelled,2020-02-02 18:55:39,web,cold,4,2
+2733771329,Esta,Roaf,Female,wants register hotel,qualified,2020-04-10 21:09:56,Word of Mouth,Warm,1,4
+0657549193,Archibold,Celli,Male,order food,cancelled,2020-01-04 05:21:45,Web,Warm,3,4
+0854021949,Agna,Files,Female,add new dish,qualified,2020-02-06 08:01:47,Web,Warm,3,4
+9895924143,Scarface,Brauns,Male,wiggy SUPER 1 year membership,cancelled,2020-01-28 02:21:58,Word of Mouth,cold,4,2
+9627893005,Levon,Crocket,Male,order food,qualified,2020-01-21 15:19:11,web,cold,4,2
+9373521136,Adela,Fordham,Female,add new dish,qualified,2020-04-02 09:52:35,Seminar,hot,3,3
+7356305690,Dari,Verlander,Female,wants register hotel,cancelled,2020-01-20 09:38:22,Advertisement,hot,3,1
+3589309733,Dianemarie,Crawcour,Female,wants register hotel,qualified,2020-01-22 20:32:55,Employee Referral,Warm,2,1
+6634987475,Saidee,Itzak,Female,order food,qualified,2020-02-24 14:39:54,Seminar,hot,1,4
+1688673156,Frankie,Laddle,Female,order food,qualified,2020-01-25 17:25:53,Employee Referral,cold,3,3
+3438792362,Kassia,Blazdell,Female,order food,qualified,2020-02-17 03:02:52,Seminar,cold,1,3
+3193613754,Pieter,Hambelton,Male,wants register hotel,qualified,2020-01-31 09:39:32,web,Warm,3,2
+5200390575,Morena,Scranedge,Female,wiggy SUPER 1 year membership,qualified,2020-04-09 18:36:20,Advertisement,hot,4,3
+3769486587,Zachary,Godleman,Male,order food,qualified,2020-03-17 01:09:46,Advertisement,cold,2,1
+1815332476,Indira,Moakson,Female,add new dish,qualified,2020-01-12 11:07:35,web,Warm,4,4
+0277321506,Finlay,Spreull,Male,add new dish,cancelled,2020-02-06 12:43:27,web,hot,1,4
+9229959308,Jenda,Arnull,Female,order food,qualified,2020-02-16 12:31:54,Advertisement,hot,1,4
+6245720265,Walden,Eldrid,Male,order food,cancelled,2020-03-01 19:15:04,Word of Mouth,Warm,4,1
+0959948686,Griffy,Robrose,Male,add new dish,cancelled,2020-02-29 19:37:33,web,Warm,1,3
+9318260385,Angelle,Beavington,Female,wiggy SUPER 1 year membership,qualified,2020-01-14 02:40:15,Web,Warm,3,2
+5567004613,Wilfrid,Jekel,Male,order food,qualified,2020-03-15 14:08:31,Word of Mouth,Warm,4,4
+5271636968,Viviyan,Borrett,Female,add new dish,qualified,2020-03-01 08:07:19,Web,cold,1,4
+8246459481,Conny,Freiberg,Male,add new dish,cancelled,2020-02-15 06:48:00,web,Warm,3,4
+6702654391,Rafaelia,Tethcote,Female,order food,qualified,2020-01-05 09:07:55,Word of Mouth,hot,1,4
+8386628316,Evie,Piborn,Female,wants register hotel,qualified,2020-01-12 07:22:26,Employee Referral,cold,1,3
+5065958335,Faye,Bather,Female,add new dish,qualified,2020-01-11 06:35:59,Web,Warm,2,4
+9390151155,Waring,Scaysbrook,Male,add new dish,qualified,2020-04-07 02:32:36,web,Warm,4,3
+0521261880,Justino,Nowlan,Male,wants register hotel,qualified,2020-04-09 07:50:57,web,hot,1,1
+5300625035,Betta,Eggerton,Female,order food,cancelled,2020-03-01 14:34:24,Employee Referral,hot,2,2
+9699064234,Deloria,Silcock,Female,wants register hotel,qualified,2020-01-24 11:46:04,Employee Referral,Warm,4,4
+6977343281,Luisa,Cortez,Female,wants register hotel,qualified,2020-02-12 13:57:09,Seminar,Warm,4,4
+6693473652,Edy,Catt,Female,wiggy SUPER 1 year membership,qualified,2020-02-11 17:16:54,Advertisement,hot,3,1
+2396865196,Jordain,Shevell,Female,order food,cancelled,2020-03-13 16:27:37,Employee Referral,hot,1,1
+2340071836,Klarrisa,Pfleger,Female,add new dish,cancelled,2020-02-24 00:58:42,web,Warm,1,1
+2279535912,Pandora,Doerling,Female,wants register hotel,qualified,2020-02-18 23:41:12,Seminar,hot,1,4
+2328267041,Sam,Sircomb,Male,add new dish,qualified,2020-04-10 21:28:59,web,Warm,4,3
+5480468731,Emili,Hawton,Female,wants register hotel,cancelled,2020-03-02 12:05:27,Advertisement,hot,1,2
+5288969612,Dulciana,De Vries,Female,order food,qualified,2020-01-22 17:56:06,Advertisement,hot,4,1
+1870001214,Tabor,Tonry,Male,order food,qualified,2020-03-10 13:01:05,Advertisement,hot,1,4
+7049843997,Karlan,Magill,Male,wiggy SUPER 1 year membership,cancelled,2020-01-08 21:42:37,Seminar,Warm,4,1
+0416222846,Marika,Perot,Female,add new dish,cancelled,2020-04-07 10:25:09,Employee Referral,Warm,3,3
+8940496477,Thedric,Corroyer,Male,wiggy SUPER 1 year membership,qualified,2020-03-10 00:08:02,Word of Mouth,hot,4,1
+2100231197,Gabi,Baudains,Male,wiggy SUPER 1 year membership,qualified,2020-02-22 00:04:17,web,cold,2,4
+6001361835,Upton,Hummerston,Male,wants register hotel,qualified,2020-04-01 15:04:57,Advertisement,Warm,1,1
+7615058023,Judon,Vardy,Male,add new dish,qualified,2020-04-14 15:42:40,Employee Referral,cold,4,1
+2335429329,Glennie,Heinz,Female,wants register hotel,cancelled,2020-03-30 00:18:56,Employee Referral,Warm,4,4
+3646791721,Feodor,Aliman,Male,wiggy SUPER 1 year membership,cancelled,2020-02-02 06:13:12,web,hot,1,4
+9274694172,Vince,Still,Male,order food,qualified,2020-02-22 09:31:04,web,cold,2,1
+1066424780,Aristotle,Alflat,Male,add new dish,qualified,2020-03-25 15:01:59,Employee Referral,hot,3,3
+2811165622,Emmalynne,Beumant,Female,order food,qualified,2020-01-30 20:35:03,Advertisement,cold,4,1
+9295051874,Coral,Robuchon,Female,wiggy SUPER 1 year membership,cancelled,2020-01-01 11:32:54,web,cold,2,4
+3412887854,Edouard,Gudgen,Male,wiggy SUPER 1 year membership,qualified,2020-01-15 12:52:58,Web,Warm,2,1
+0134733371,Joseph,McCleod,Male,wants register hotel,qualified,2020-02-07 21:41:38,Employee Referral,hot,1,4
+1055575626,Dianemarie,Marjanski,Female,order food,cancelled,2020-02-28 05:20:18,Advertisement,cold,2,4
+7455082967,Aristotle,Isaacson,Male,add new dish,qualified,2020-01-10 15:27:00,Word of Mouth,hot,4,4
+4166667335,Ailbert,Aggiss,Male,wants register hotel,cancelled,2020-03-06 08:03:06,Web,cold,2,2
+7100205042,Godfree,Jelkes,Male,order food,cancelled,2020-03-22 04:36:19,Web,cold,1,2
+4806866687,Pryce,Barnewall,Male,add new dish,cancelled,2020-02-03 09:26:29,Advertisement,hot,4,3
+7549017514,Daphene,Steggles,Female,add new dish,qualified,2020-01-29 02:52:49,Advertisement,Warm,3,1
+8586484172,Joyan,Mandrier,Female,order food,qualified,2020-04-01 05:22:12,Word of Mouth,Warm,2,1
+6527597088,Nicolle,Paddie,Female,wiggy SUPER 1 year membership,qualified,2020-01-26 20:52:47,Employee Referral,Warm,1,3
+4697529898,Willem,Younger,Male,add new dish,qualified,2020-01-12 00:06:22,Advertisement,Warm,3,2
+0401364100,Lindi,Cockshot,Female,add new dish,qualified,2020-04-04 19:48:54,Advertisement,hot,4,4
+1675100837,Hagan,Philipsen,Male,wiggy SUPER 1 year membership,cancelled,2020-02-29 07:49:44,Word of Mouth,hot,3,3
+5014724167,Alvinia,L'argent,Female,order food,qualified,2020-03-17 18:57:05,Web,hot,1,2
+1387958399,Cate,Cayzer,Female,wants register hotel,cancelled,2020-01-19 07:50:31,Employee Referral,cold,1,4
+8591264851,Ardelle,Killwick,Female,order food,qualified,2020-04-10 07:56:23,Web,hot,4,4
+7161834430,Kathy,Petworth,Female,wants register hotel,qualified,2020-03-23 09:54:20,Web,hot,2,4
+3209140081,Shadow,Escritt,Male,wiggy SUPER 1 year membership,qualified,2020-03-11 12:27:06,Employee Referral,hot,1,3
+7223528745,Jacquenetta,Minshall,Female,add new dish,qualified,2020-03-23 12:09:20,Seminar,hot,3,4
+7277219694,Hamid,Youhill,Male,order food,cancelled,2020-03-12 13:27:34,Web,Warm,2,4
+9650254897,Edlin,Wickersham,Male,order food,qualified,2020-04-03 03:04:39,Web,Warm,4,3
+7435134406,Asher,Lovat,Male,add new dish,cancelled,2020-02-23 11:44:53,web,hot,1,2
+4251379977,Maxy,Duffil,Female,order food,qualified,2020-03-15 03:45:41,Seminar,cold,4,2
+1292512547,Joshuah,Colliss,Male,order food,qualified,2020-04-12 16:01:02,web,Warm,1,1
+2564973752,Merrilee,Savins,Female,wants register hotel,qualified,2020-02-06 11:20:41,Web,hot,3,1
+1999670574,Willette,Middleton,Female,order food,cancelled,2020-04-01 19:31:37,Advertisement,hot,3,4
+5273351928,Carlos,Pardey,Male,wiggy SUPER 1 year membership,cancelled,2020-02-09 04:53:34,Word of Mouth,Warm,2,2
+1633054322,Jaine,Minithorpe,Female,order food,qualified,2020-03-09 11:36:28,web,cold,3,3
+1202636268,Vonny,Macauley,Female,order food,cancelled,2020-02-06 17:50:54,web,hot,2,3
+2771276186,Luigi,Anyon,Male,order food,qualified,2020-01-16 10:48:31,web,cold,3,4
+4797046643,Leroi,Ashpole,Male,wants register hotel,qualified,2020-03-09 23:25:07,Seminar,cold,3,4
+5971416693,Willdon,Twelvetrees,Male,wants register hotel,qualified,2020-02-07 13:08:48,Advertisement,cold,3,3
+8697904714,Clarance,Clendennen,Male,wants register hotel,qualified,2020-01-21 22:56:01,Employee Referral,hot,2,2
+5473363660,Maisie,O'Reagan,Female,wiggy SUPER 1 year membership,qualified,2020-03-16 11:35:47,Web,cold,1,2
+9447715869,Sharon,Treves,Female,wants register hotel,qualified,2020-03-14 12:41:36,Seminar,cold,4,3
+2139604687,Enid,Bourne,Female,wants register hotel,cancelled,2020-01-03 04:44:45,Word of Mouth,Warm,2,2
+8321805787,Allianora,Chaves,Female,order food,qualified,2020-03-05 00:37:34,web,Warm,4,2
+4254912048,Mano,Saiens,Male,wiggy SUPER 1 year membership,cancelled,2020-04-14 02:27:38,web,Warm,1,4
+5292166073,Fabian,Gomme,Male,wants register hotel,cancelled,2020-02-24 15:01:04,web,cold,1,4
+2445292093,Shirley,Maben,Female,wants register hotel,cancelled,2020-02-07 19:06:22,Web,hot,4,2
+5543976704,Shayne,Sherrocks,Male,wants register hotel,cancelled,2020-03-19 20:17:13,Advertisement,cold,2,1
+9229201014,Freedman,Eite,Male,wiggy SUPER 1 year membership,cancelled,2020-03-10 19:05:51,web,hot,2,1
+5525646323,Arlin,Metherell,Male,wiggy SUPER 1 year membership,cancelled,2020-03-07 03:48:48,Word of Mouth,Warm,4,3
+8805526843,Derek,Klausewitz,Male,order food,cancelled,2020-02-02 04:40:25,Web,cold,3,3
+6014790217,Corbett,Faughny,Male,order food,qualified,2020-04-08 04:57:01,Employee Referral,Warm,3,2
+2082767027,Saw,Lewry,Male,wiggy SUPER 1 year membership,qualified,2020-03-13 05:29:30,Seminar,cold,4,3
+3534627199,Claudetta,Wordsley,Female,order food,cancelled,2020-01-08 04:25:43,Word of Mouth,hot,4,3
+4796718192,Chrysa,Bartell,Female,wiggy SUPER 1 year membership,qualified,2020-03-29 00:05:12,web,Warm,2,3
+4105212168,Gaby,Krzysztofiak,Female,order food,qualified,2020-02-04 03:18:00,web,hot,3,3
+0976365251,Hatty,Matityahu,Female,wants register hotel,cancelled,2020-02-11 10:53:42,Employee Referral,cold,3,4
+8560678905,Goober,Braine,Male,wants register hotel,qualified,2020-01-06 22:12:01,Word of Mouth,Warm,1,1
+2314479459,Angie,Ayce,Female,order food,cancelled,2020-01-05 23:17:40,web,Warm,4,2
+4288588464,Charo,Tompkiss,Female,wants register hotel,qualified,2020-03-24 04:51:07,Web,Warm,3,4
+2817232062,Rosina,Wooding,Female,order food,cancelled,2020-01-07 10:38:08,Advertisement,hot,2,3
+8955697619,Marrilee,Cracoe,Female,wants register hotel,cancelled,2020-02-18 04:09:29,Word of Mouth,Warm,1,3
+4889302921,Rolf,Dumbarton,Male,order food,cancelled,2020-02-01 11:24:47,Seminar,hot,4,1
+7753555448,Rodolphe,Smales,Male,add new dish,cancelled,2020-01-24 11:11:49,web,hot,3,1
+8287830281,Alane,Binnie,Female,wants register hotel,qualified,2020-02-24 13:23:22,Word of Mouth,hot,4,4
+1518155006,Evangelia,Dudman,Female,order food,qualified,2020-02-01 01:40:17,Word of Mouth,cold,4,3
+1698962983,Leilah,Corder,Female,wiggy SUPER 1 year membership,cancelled,2020-04-07 19:31:15,Employee Referral,Warm,2,2
+3633119019,Benyamin,Folca,Male,order food,qualified,2020-03-03 18:22:37,web,hot,1,4
+7461274597,Joice,Perocci,Female,wiggy SUPER 1 year membership,qualified,2020-02-07 02:48:51,web,hot,4,2
+0800358759,Fayette,Risbridger,Female,order food,cancelled,2020-03-06 16:30:32,Word of Mouth,hot,1,2
+5878850184,Bibby,Tapply,Female,order food,cancelled,2020-03-03 08:28:00,Employee Referral,hot,4,3
+4551050741,Guthrie,Vettore,Male,wiggy SUPER 1 year membership,qualified,2020-03-07 14:00:04,web,hot,3,4
+1430281294,Bonni,Sleith,Female,order food,qualified,2020-01-29 17:03:29,Web,cold,1,1
+6408741428,Monty,Binner,Male,add new dish,qualified,2020-02-03 22:13:14,Word of Mouth,Warm,2,2
+3691664393,Sherlock,Gurley,Male,order food,qualified,2020-04-03 23:55:01,Web,cold,4,3
+9981993603,Ardelis,Rens,Female,wiggy SUPER 1 year membership,qualified,2020-01-02 07:10:39,web,Warm,2,2
+1923306324,Elset,Gibbs,Female,order food,qualified,2020-02-26 19:26:48,web,cold,1,2
+5932407468,Skipper,Esom,Male,wiggy SUPER 1 year membership,cancelled,2020-01-12 15:07:33,Advertisement,Warm,1,1
+8646394719,Vernor,Speerman,Male,wiggy SUPER 1 year membership,cancelled,2020-04-05 11:31:06,Web,hot,2,1
+0407331190,Kris,Shepherdson,Female,order food,cancelled,2020-01-27 17:41:27,Web,cold,2,4
+2980565776,Fletcher,Munkton,Male,add new dish,qualified,2020-02-22 09:35:09,Advertisement,hot,1,2
+2238116338,Myrilla,Rockell,Female,order food,cancelled,2020-03-11 06:01:18,web,hot,2,3
+5684795234,Tam,Hacket,Male,wiggy SUPER 1 year membership,cancelled,2020-04-11 20:28:35,Web,Warm,1,3
+8453782466,Andy,Voce,Female,add new dish,qualified,2020-02-18 04:34:58,Employee Referral,Warm,3,4
+6821523711,Myrilla,Garmon,Female,order food,qualified,2020-01-27 11:16:41,Word of Mouth,cold,3,1
+4230204302,Alphonso,Chasen,Male,order food,cancelled,2020-03-10 11:15:45,web,hot,4,3
+3270707665,Casey,Noye,Male,add new dish,cancelled,2020-01-19 10:43:03,web,Warm,2,3
+4087581136,Scottie,Farrall,Male,wants register hotel,qualified,2020-01-11 04:06:21,Employee Referral,hot,4,4
+9366875580,Thorvald,MacCarter,Male,add new dish,qualified,2020-01-01 12:52:40,Web,hot,1,3
+9488981873,Alexis,Haney`,Male,add new dish,qualified,2020-04-04 19:34:48,web,cold,3,2
+7986602945,Doug,Sawdy,Male,wants register hotel,qualified,2020-04-07 08:26:51,Advertisement,cold,3,2
+4197251416,Hyacinthia,Wilbore,Female,wants register hotel,cancelled,2020-03-23 10:32:01,Web,cold,1,1
+8831792482,Ellene,Dymick,Female,order food,qualified,2020-03-10 18:10:49,Advertisement,hot,2,2
+9886277602,Terence,Bachanski,Male,order food,cancelled,2020-03-24 19:10:22,web,Warm,4,4
+2627666797,Darnall,Van Waadenburg,Male,order food,qualified,2020-01-27 23:26:21,Advertisement,cold,4,1
+7039561018,Swen,Meachen,Male,order food,cancelled,2020-01-27 00:36:16,web,hot,4,3
+4286759032,Isahella,Jaksic,Female,order food,qualified,2020-02-26 15:36:58,Advertisement,cold,3,2
+7299082012,Gabriellia,Franzetti,Female,wants register hotel,qualified,2020-01-20 09:20:36,web,cold,4,1
+5622728584,Etty,Bulfoy,Female,order food,qualified,2020-03-31 06:14:54,Employee Referral,Warm,4,2
+5495804155,Illa,Durham,Female,wants register hotel,qualified,2020-01-10 02:40:22,web,cold,3,3
+5807587529,Aksel,Shillington,Male,wants register hotel,qualified,2020-02-16 12:17:34,Advertisement,cold,3,3
+5968880074,Esdras,Dyson,Male,order food,qualified,2020-02-02 18:21:38,Word of Mouth,Warm,3,1
+1846699592,Dodi,Matchell,Female,order food,qualified,2020-02-17 19:57:25,Web,hot,1,1
+5922230123,Cinda,Stimson,Female,add new dish,qualified,2020-01-02 10:38:13,Seminar,cold,4,4
+4245691115,Joyous,Hebbard,Female,order food,qualified,2020-01-24 13:20:01,web,hot,4,4
+4458274643,Corilla,Abelson,Female,order food,qualified,2020-02-05 22:40:28,Web,cold,4,4
+5557094539,Carmelia,Murrow,Female,wiggy SUPER 1 year membership,qualified,2020-01-17 02:29:03,Word of Mouth,hot,4,1
+7915363174,Taryn,Weed,Female,order food,cancelled,2020-01-23 23:11:13,web,cold,2,2
+1279994487,Starr,Dinjes,Female,wants register hotel,cancelled,2020-02-26 19:24:51,Web,cold,1,4
+7132064983,Wandie,Dishmon,Female,order food,qualified,2020-03-21 06:22:43,Web,cold,4,2
+2606327985,Pammie,Klimowski,Female,wiggy SUPER 1 year membership,qualified,2020-01-25 15:09:56,Web,cold,2,4
+0616028660,Kellby,Clemmen,Male,order food,qualified,2020-02-05 05:35:17,web,hot,1,1
+4217908695,Errol,Kordas,Male,wants register hotel,cancelled,2020-03-20 05:14:15,Web,cold,4,2
+2212063229,Nikolia,Plain,Female,add new dish,qualified,2020-03-31 06:38:40,Word of Mouth,cold,1,4
+7136561558,Britt,Rabl,Male,wants register hotel,qualified,2020-03-28 14:45:23,Employee Referral,Warm,4,3
+3565982349,Deidre,Dubarry,Female,order food,qualified,2020-04-10 15:12:06,Web,Warm,3,4
+0885221214,Kory,Coiley,Male,order food,qualified,2020-01-02 22:11:24,Advertisement,Warm,4,4
+0733861113,Eleonore,Jobb,Female,add new dish,qualified,2020-03-21 06:23:23,Web,hot,1,3
+4534349300,Harlin,Polet,Male,add new dish,qualified,2020-02-28 19:59:45,Advertisement,hot,4,2
+0571527299,Barclay,Le Port,Male,order food,qualified,2020-02-06 08:40:41,Web,cold,4,3
+6399852455,Anselm,Pendrigh,Male,wants register hotel,qualified,2020-03-04 11:59:08,Advertisement,hot,2,3
+6069022394,Maryjane,Georghiou,Female,wiggy SUPER 1 year membership,qualified,2020-03-28 00:52:49,Employee Referral,hot,4,1
+2780657723,Aveline,Orrum,Female,add new dish,qualified,2020-02-26 01:00:19,web,Warm,3,3
+7484312436,Bealle,Matczak,Male,wiggy SUPER 1 year membership,qualified,2020-02-03 04:02:26,Web,Warm,1,4
+8073915626,Ber,Drummer,Male,wants register hotel,cancelled,2020-04-05 07:53:29,Web,hot,4,2
+7089071073,Bogey,Hawkshaw,Male,order food,cancelled,2020-03-03 20:11:20,Web,hot,2,2
+6827858405,Thedrick,Crebott,Male,order food,cancelled,2020-02-12 17:37:45,Advertisement,hot,1,1
+1420797131,Enid,Thome,Female,wants register hotel,qualified,2020-02-19 08:18:22,Web,Warm,3,4
+3111189309,Thedrick,Stein,Male,order food,qualified,2020-03-05 10:41:58,web,cold,4,4
+9768086602,Matty,Feaver,Male,order food,cancelled,2020-01-18 10:08:48,Word of Mouth,Warm,3,4
+5071946440,Hobard,Giacomuzzo,Male,wiggy SUPER 1 year membership,qualified,2020-01-20 07:33:33,Advertisement,hot,2,3
+7731339408,Jackelyn,Greveson,Female,order food,qualified,2020-02-15 17:24:12,Advertisement,cold,1,1
+2358234354,Cullie,Roebuck,Male,add new dish,cancelled,2020-02-08 09:45:03,web,cold,3,4
+7579436361,Kara,Coye,Female,order food,qualified,2020-04-09 00:41:53,Word of Mouth,hot,1,2
+6753070745,Lacie,Wesgate,Female,wants register hotel,qualified,2020-02-21 00:55:51,web,cold,3,4
+8010493872,Mariya,Garrick,Female,add new dish,qualified,2020-04-12 18:14:33,web,cold,3,4
+9475772685,Lenee,Jaxon,Female,order food,qualified,2020-03-27 10:58:57,Word of Mouth,hot,3,4
+7339977724,Tallia,Still,Female,order food,qualified,2020-02-13 04:52:22,web,Warm,2,3
+5185021136,Susann,Gebb,Female,order food,qualified,2020-03-27 09:13:39,Web,Warm,4,3
+5685673213,Arden,Raitt,Female,wiggy SUPER 1 year membership,cancelled,2020-01-02 03:45:51,Word of Mouth,hot,4,4
+2455537056,Janeva,Critten,Female,wants register hotel,cancelled,2020-02-10 11:57:44,web,hot,4,2
+5334950109,Kaylee,Paskerful,Female,order food,qualified,2020-02-24 12:45:58,web,Warm,3,2
+0861804333,Lexi,Ritmeier,Female,add new dish,qualified,2020-02-24 12:27:49,Web,cold,4,3
+4784016821,Alvan,Pocklington,Male,wants register hotel,qualified,2020-02-27 09:29:47,Advertisement,cold,4,4
+1486325378,Janos,Byrcher,Male,add new dish,cancelled,2020-02-08 22:26:29,web,Warm,3,3
+0569944244,Ferris,Kidney,Male,wiggy SUPER 1 year membership,qualified,2020-01-18 12:40:13,Web,Warm,4,4
+7784949197,Nichole,Shory,Male,order food,cancelled,2020-01-27 16:40:44,Seminar,Warm,4,1
+2042343846,Chelsey,Hitter,Female,wiggy SUPER 1 year membership,qualified,2020-03-17 17:21:32,Word of Mouth,cold,2,4
+4131787296,Nerissa,Beert,Female,add new dish,qualified,2020-01-25 05:46:37,web,Warm,3,3
+0718355733,Zedekiah,Rosten,Male,order food,qualified,2020-04-10 20:44:05,Advertisement,hot,3,1
+5331134165,Haze,Goodge,Male,order food,cancelled,2020-02-22 12:38:49,web,cold,4,2
+3587027595,Barry,Stitson,Male,add new dish,cancelled,2020-02-02 15:22:43,web,Warm,2,3
+0022806148,Natal,Greenhaugh,Male,wants register hotel,cancelled,2020-04-05 13:48:11,Web,hot,1,3
+0318480506,Wells,Kix,Male,order food,cancelled,2020-02-04 00:39:44,Advertisement,cold,1,3
+4162227233,Rodrick,Oleszkiewicz,Male,order food,qualified,2020-01-21 05:33:01,Advertisement,cold,4,1
+3692405618,Charisse,Fleetham,Female,add new dish,qualified,2020-03-12 03:48:44,Web,cold,4,3
+8939725131,Jeramey,McGarrell,Male,wants register hotel,qualified,2020-02-13 05:25:12,web,hot,4,1
+7005390334,Brocky,Ilive,Male,add new dish,cancelled,2020-01-24 06:41:40,Word of Mouth,cold,2,2
+8144139305,Miof mela,Brigshaw,Female,wants register hotel,qualified,2020-01-15 12:38:41,Word of Mouth,cold,3,2
+0723742596,Serge,While,Male,wiggy SUPER 1 year membership,qualified,2020-02-28 12:36:25,Seminar,cold,4,3
+0708173691,Lynn,Oland,Male,order food,qualified,2020-04-10 02:34:55,Advertisement,hot,3,4
+2272125840,Dulcy,Godbert,Female,order food,qualified,2020-01-24 23:35:31,Seminar,hot,3,4
+4874660630,Farrah,Ratcliffe,Female,wants register hotel,qualified,2020-01-10 07:51:00,Word of Mouth,cold,3,1
+8523448012,Patrizia,Cosker,Female,wants register hotel,cancelled,2020-02-18 20:47:13,web,cold,4,4
+3257675127,Heath,Jansik,Male,order food,cancelled,2020-02-23 18:13:40,web,cold,1,4
+5202970714,Ashlee,Fallanche,Female,wants register hotel,qualified,2020-02-22 11:33:49,Employee Referral,Warm,2,1
+6273802998,Lynn,Stapley,Male,order food,cancelled,2020-03-05 15:06:12,Web,hot,1,2
+1516402790,Elladine,Seelbach,Female,order food,cancelled,2020-02-03 00:45:40,Web,Warm,2,3
+9728188617,Aurlie,Greenhow,Female,wiggy SUPER 1 year membership,cancelled,2020-03-03 06:00:10,web,cold,4,3
+4557151728,Lorilee,Raccio,Female,wiggy SUPER 1 year membership,qualified,2020-03-17 03:34:18,Seminar,cold,2,1
+7921720951,Jose,Sheppard,Male,wants register hotel,qualified,2020-01-04 23:53:32,web,hot,1,1
+8640816573,Goldia,Varcoe,Female,order food,qualified,2020-02-15 21:25:40,web,cold,2,3
+0680983147,Teddie,Outibridge,Female,order food,cancelled,2020-04-09 07:22:54,Seminar,cold,1,4
+9223197899,Ingrim,Lott,Male,order food,qualified,2020-03-30 13:16:14,Word of Mouth,Warm,4,4
+2750674964,Antony,Tremelling,Male,wiggy SUPER 1 year membership,qualified,2020-03-06 15:47:47,Advertisement,hot,1,1
+2672772053,Priscilla,Rantoull,Female,add new dish,qualified,2020-03-30 11:27:54,Seminar,Warm,1,2
+0863444563,Tabitha,Skehens,Female,wants register hotel,qualified,2020-04-07 19:23:43,Employee Referral,hot,4,2
+0886388538,Marius,Boulde,Male,order food,qualified,2020-02-26 10:56:23,web,cold,3,3
+3095002173,Carmine,Hubble,Male,add new dish,qualified,2020-01-05 21:47:58,web,cold,3,4
+1210506432,Gail,Derrington,Male,add new dish,qualified,2020-03-12 15:18:57,Seminar,Warm,3,4
+1671368169,Branden,Corness,Male,wants register hotel,qualified,2020-03-13 21:36:27,web,Warm,1,1
+5613286345,Garreth,Jori,Male,wants register hotel,qualified,2020-04-04 19:45:27,Web,Warm,3,1
+7243704220,Leelah,Raithmill,Female,wiggy SUPER 1 year membership,cancelled,2020-01-04 18:19:07,web,cold,4,2
+1444851306,Lucille,Strangward,Female,order food,cancelled,2020-02-22 18:48:31,web,Warm,2,2
+6811741872,Philipa,Jolliss,Female,order food,qualified,2020-04-04 01:44:13,Employee Referral,Warm,4,4
+6885574996,Inna,Brabant,Female,wiggy SUPER 1 year membership,cancelled,2020-02-15 07:25:30,Seminar,hot,1,2
+0447243039,Denys,Flahive,Female,order food,cancelled,2020-01-15 06:53:29,web,Warm,2,3
+2817917774,Stephie,Crosen,Female,wiggy SUPER 1 year membership,cancelled,2020-01-08 13:21:41,Advertisement,cold,3,2
+6130046677,Filippo,Brazear,Male,wants register hotel,cancelled,2020-02-14 00:42:10,Employee Referral,Warm,4,4
+7145889463,Maybelle,Winser,Female,wiggy SUPER 1 year membership,qualified,2020-02-24 22:05:33,Seminar,cold,3,4
+7891676151,Tracey,Blakiston,Female,wiggy SUPER 1 year membership,cancelled,2020-02-06 00:30:12,web,Warm,3,4
+6815478149,Allegra,Burridge,Female,wiggy SUPER 1 year membership,qualified,2020-02-23 10:55:23,Web,cold,2,1
+7985628908,Dur,Waymont,Male,order food,qualified,2020-03-15 14:54:13,Word of Mouth,Warm,2,2
+0215387600,Sid,Pleat,Male,wiggy SUPER 1 year membership,cancelled,2020-03-13 14:33:31,Word of Mouth,hot,3,3
+9188585468,Bronnie,Lampard,Male,order food,qualified,2020-02-04 18:20:23,Employee Referral,hot,4,2
+3212343052,Fredrika,Button,Female,add new dish,qualified,2020-03-22 17:47:12,Word of Mouth,cold,2,1
+4185352360,Ingra,Torrese,Male,wants register hotel,cancelled,2020-01-09 02:35:26,web,cold,4,1
+0209561793,Randi,Purselow,Female,add new dish,cancelled,2020-03-24 14:09:04,Web,Warm,4,1
+2732145920,Katherine,Brunotti,Female,wants register hotel,qualified,2020-01-07 16:00:56,Web,Warm,4,4
+8198787070,Lannie,Perocci,Male,wiggy SUPER 1 year membership,qualified,2020-04-08 09:49:23,Web,cold,4,1
+6954035300,Lilllie,Gateland,Female,add new dish,cancelled,2020-03-19 02:10:15,Web,cold,4,4
+4697731220,Patrizius,Canepe,Male,wiggy SUPER 1 year membership,qualified,2020-03-01 06:16:02,web,Warm,1,3
+5044912646,Kippar,Leveridge,Male,wiggy SUPER 1 year membership,qualified,2020-03-04 16:50:37,Seminar,cold,3,4
+2707220590,Celinda,Hankinson,Female,add new dish,cancelled,2020-04-05 14:13:05,Advertisement,Warm,3,3
+0663710146,Virgie,Milward,Male,order food,qualified,2020-01-12 03:12:43,web,cold,2,3
+3541037016,Jard,Basnett,Male,add new dish,qualified,2020-02-19 18:19:08,Word of Mouth,Warm,1,1
+0504012037,Elsinore,Hayesman,Female,wiggy SUPER 1 year membership,qualified,2020-02-15 17:09:57,web,cold,2,1
+5373393940,Lyon,Boxell,Male,add new dish,qualified,2020-02-06 21:29:47,Employee Referral,cold,2,3
+7960922306,Cullin,Clearley,Male,wiggy SUPER 1 year membership,qualified,2020-02-09 14:19:33,Advertisement,cold,2,1
+9272760232,Bliss,Saint,Female,wants register hotel,cancelled,2020-04-05 03:58:20,web,hot,1,4
+6135997769,Wiley,Reyne,Male,order food,qualified,2020-02-03 16:50:42,web,Warm,4,3
+5554414389,Evangelia,Butt Gow,Female,wiggy SUPER 1 year membership,qualified,2020-02-13 02:10:39,Web,cold,3,3
+9102444097,Smith,Bousfield,Male,add new dish,cancelled,2020-01-16 18:58:58,Web,hot,1,1
+4000268635,Alisun,Olman,Female,wants register hotel,cancelled,2020-02-05 12:45:47,web,cold,4,2
+3292964075,Caye,Darycott,Female,order food,qualified,2020-03-08 17:28:04,Employee Referral,hot,1,4
+9847287759,Any,Deedes,Male,wants register hotel,qualified,2020-02-27 18:02:07,web,cold,3,3
+9063490909,Zak,Simakov,Male,wants register hotel,qualified,2020-01-02 09:40:03,Advertisement,hot,1,1
+7672979485,Chen,Padbury,Male,add new dish,qualified,2020-01-15 15:10:13,web,cold,4,3
+5595606673,Barron,Bille,Male,order food,qualified,2020-02-13 05:29:03,Seminar,cold,2,1
+4490131631,Pansy,Pecha,Female,order food,qualified,2020-02-07 06:55:46,web,hot,4,2
+8171949401,Lisbeth,Fairey,Female,add new dish,qualified,2020-03-22 18:03:08,Employee Referral,hot,1,3
+3686496380,Benetta,Smallthwaite,Female,wants register hotel,qualified,2020-01-04 16:22:38,Seminar,hot,2,4
+2665853280,Geralda,Auguste,Female,order food,cancelled,2020-01-05 05:14:15,Web,Warm,2,2
+2089221852,Ezra,Mycock,Male,wiggy SUPER 1 year membership,qualified,2020-03-11 09:13:47,Employee Referral,hot,2,3
+2641014998,Rickie,Thomton,Male,add new dish,cancelled,2020-01-24 02:34:55,web,hot,4,1
+5459906822,Ronald,MacCracken,Male,wants register hotel,cancelled,2020-03-24 23:34:59,web,cold,1,3
+0406079706,Whitby,Hazelton,Male,wiggy SUPER 1 year membership,qualified,2020-01-12 21:18:31,Seminar,hot,4,3
+3350310451,Zita,Chastanet,Female,order food,qualified,2020-02-11 16:02:39,web,hot,4,1
+8396461147,Ambrosius,Perry,Male,wiggy SUPER 1 year membership,cancelled,2020-03-18 15:35:57,Employee Referral,cold,3,1
+9287821410,Raychel,Wenzel,Female,order food,qualified,2020-01-29 14:31:40,Word of Mouth,cold,4,4
+8854318094,Hallsy,Teape,Male,order food,qualified,2020-01-22 00:46:59,Employee Referral,hot,3,3
+1211153347,Granny,Jessup,Male,wants register hotel,qualified,2020-02-10 07:30:52,Employee Referral,cold,3,1
+9949318939,Gunter,MacLaughlin,Male,order food,qualified,2020-01-21 00:31:45,web,hot,3,1
+4474404467,Kinsley,Hemerijk,Male,add new dish,qualified,2020-03-16 10:43:00,web,cold,2,3
+1211192261,Erica,Mouan,Female,add new dish,qualified,2020-03-03 22:30:10,Advertisement,hot,2,3
+1984063219,Ferrel,Pordal,Male,add new dish,cancelled,2020-01-06 17:10:51,Advertisement,cold,2,3
+3855322155,Becca,Bartot,Female,wiggy SUPER 1 year membership,cancelled,2020-02-16 13:46:22,web,Warm,1,3
+8561904739,Colene,Mynard,Female,wiggy SUPER 1 year membership,cancelled,2020-01-01 14:50:17,Seminar,hot,4,2
+0911781951,Birch,Cossans,Male,order food,cancelled,2020-03-22 02:55:43,web,cold,2,3
+0836762746,Allys,Kopke,Female,wiggy SUPER 1 year membership,qualified,2020-04-14 01:03:58,Employee Referral,Warm,1,4
+9825490969,Honoria,Clissett,Female,wants register hotel,cancelled,2020-03-16 19:49:27,Web,cold,1,3
+8896620848,Walker,Vicent,Male,order food,cancelled,2020-01-14 17:42:04,Seminar,cold,3,3
+5992300775,Nicolle,Notton,Female,add new dish,qualified,2020-04-09 16:05:41,web,hot,4,3
+1924855135,Uriah,Stiffell,Male,order food,qualified,2020-02-12 14:30:48,Web,Warm,4,3
+4173734190,Marline,Wilkisson,Female,wiggy SUPER 1 year membership,qualified,2020-04-01 12:02:44,Web,hot,2,4
+9286937601,Claiborne,Crier,Male,order food,cancelled,2020-03-16 06:13:34,Web,hot,2,1
+0329757970,Nell,Ludlom,Female,add new dish,qualified,2020-02-23 05:15:51,Word of Mouth,hot,4,3
+1858897548,Zechariah,Baulk,Male,order food,cancelled,2020-04-08 02:07:50,Employee Referral,hot,3,1
+1626386137,Shelden,Leonida,Male,add new dish,cancelled,2020-03-07 05:25:32,Employee Referral,cold,2,2
+2667940482,Shana,Disbrow,Female,order food,qualified,2020-01-11 15:35:30,Web,hot,4,2
+4191197789,Morissa,Prynne,Female,wants register hotel,cancelled,2020-03-03 16:37:31,web,cold,3,2
+9615594768,Donny,Robel,Male,wiggy SUPER 1 year membership,qualified,2020-01-31 11:43:27,web,Warm,1,4
+6099631569,Hadrian,Adamovich,Male,order food,cancelled,2020-04-13 16:46:30,Word of Mouth,Warm,2,1
+8078028180,Keenan,Blayd,Male,order food,qualified,2020-04-05 21:03:16,Seminar,cold,4,3
+4104439762,Archibold,Soane,Male,order food,cancelled,2020-03-29 01:39:15,web,hot,2,3
+8310554451,Gerald,Murford,Male,order food,qualified,2020-03-28 02:05:49,web,Warm,3,4
+3767917238,Cassie,Kenwyn,Male,order food,qualified,2020-02-25 09:06:49,Employee Referral,cold,3,2
+0946706999,Sybila,Fawdry,Female,add new dish,qualified,2020-03-15 01:21:54,web,hot,2,1
+2533084190,Rahal,Cowndley,Female,wants register hotel,qualified,2020-03-19 00:33:18,Advertisement,cold,2,3
+4916000587,Jone,Macauley,Male,add new dish,cancelled,2020-01-19 00:06:54,Word of Mouth,Warm,3,2
+8924993550,Marcella,Presman,Female,wants register hotel,qualified,2020-04-05 12:58:32,Seminar,Warm,1,3
+1914440331,Sylas,Weddell,Male,add new dish,qualified,2020-01-11 21:47:16,web,Warm,3,3
+4582898742,Ivar,Mosconi,Male,order food,cancelled,2020-01-06 02:23:41,Employee Referral,hot,4,2
+9630763834,Tirrell,Edess,Male,add new dish,qualified,2020-02-23 05:06:44,web,cold,3,3
+7710936393,Darcie,Rosebotham,Female,wiggy SUPER 1 year membership,cancelled,2020-04-07 23:58:45,web,Warm,3,4
+6748700191,Remus,Normanton,Male,order food,qualified,2020-01-28 06:46:21,Word of Mouth,hot,1,4
+3851646878,Maren,Hedingham,Female,order food,qualified,2020-02-25 22:50:10,web,cold,3,3
+1728450659,Filbert,Tettersell,Male,wants register hotel,qualified,2020-02-07 12:53:26,web,hot,2,1
+2803917556,Christian,O'Cannon,Male,wiggy SUPER 1 year membership,qualified,2020-02-19 17:30:21,Web,cold,4,1
+4575034916,Darlleen,Flohard,Female,wants register hotel,cancelled,2020-04-04 00:17:24,Employee Referral,cold,2,4
+6614774875,Eachelle,Tooby,Female,order food,qualified,2020-04-03 17:37:52,Advertisement,cold,3,1
+6830047153,Kittie,Cook,Female,wants register hotel,qualified,2020-03-05 14:17:34,Web,hot,2,2
+2127688325,Reinhard,Gownge,Male,add new dish,qualified,2020-03-04 03:21:40,Web,hot,4,1
+6795343510,Betti,Nealey,Female,add new dish,qualified,2020-02-01 16:47:40,Word of Mouth,Warm,1,1
+1738485250,Alexei,Rowlands,Male,add new dish,cancelled,2020-01-29 05:33:33,web,hot,1,3
+1932780416,Price,Balwin,Male,wants register hotel,cancelled,2020-01-26 22:47:20,Employee Referral,Warm,4,3
+7045926510,Anthia,Suarez,Female,wants register hotel,qualified,2020-02-13 19:24:09,web,Warm,2,1
+9091932198,Milena,Tomasik,Female,order food,qualified,2020-01-31 11:47:35,Employee Referral,Warm,3,4
+3093819741,Dante,Grute,Male,add new dish,cancelled,2020-02-09 11:36:20,Web,Warm,2,4
+4530020290,Sybila,Veale,Female,add new dish,qualified,2020-01-27 17:51:24,Advertisement,cold,1,2
+0224963082,Fae,Geratt,Female,add new dish,qualified,2020-03-01 16:15:23,Word of Mouth,Warm,3,1
+9270989771,Kalila,Ogborn,Female,order food,cancelled,2020-02-23 07:44:02,web,Warm,3,2
+5733989963,Sonny,Goodyer,Female,order food,cancelled,2020-01-27 22:56:27,Advertisement,hot,2,2
+8433745239,Sunshine,Domino,Female,wants register hotel,cancelled,2020-03-23 08:35:21,Web,cold,3,1
+0087135701,Lucinda,Medlen,Female,order food,cancelled,2020-01-09 23:52:28,Seminar,cold,4,2
+4482084271,Mela,Clothier,Female,wants register hotel,cancelled,2020-03-28 02:47:58,Advertisement,hot,1,1
+8708683476,Rusty,Boise,Male,add new dish,qualified,2020-01-04 19:53:53,Employee Referral,hot,4,4
+7486313553,Niles,Sylett,Male,add new dish,qualified,2020-02-09 00:44:21,web,hot,1,1
+0672314215,Irene,Dewen,Female,add new dish,qualified,2020-01-08 00:54:48,Seminar,Warm,2,3
+3537386044,Lea,Frew,Female,wants register hotel,qualified,2020-03-13 10:39:46,Employee Referral,hot,2,3
+4188820756,Jordanna,Petworth,Female,order food,qualified,2020-03-11 10:43:51,web,cold,4,2
+3931006654,Mitchell,Larder,Male,add new dish,qualified,2020-04-01 05:54:57,web,Warm,2,2
+0543010120,Tessie,Maunton,Female,order food,qualified,2020-02-12 01:56:18,Seminar,Warm,2,2
+9212115640,Gayla,Challes,Female,wants register hotel,qualified,2020-02-13 09:37:03,Web,hot,4,3
+6259797281,Richard,Blowin,Male,order food,cancelled,2020-02-06 16:55:38,Advertisement,hot,4,2
+0513171045,Vern,McArtan,Male,wants register hotel,cancelled,2020-04-07 21:39:45,web,cold,2,4
+4129560018,Royce,Corby,Male,wants register hotel,qualified,2020-01-08 00:02:04,web,Warm,2,2
+8096329634,Tuckie,Ashbrook,Male,add new dish,qualified,2020-02-13 03:51:58,web,Warm,2,2
+4385082170,Terrye,Cazalet,Female,wiggy SUPER 1 year membership,cancelled,2020-03-11 08:17:02,Advertisement,hot,2,1
+2741235104,Cassie,Farens,Female,order food,cancelled,2020-02-21 19:00:44,Seminar,Warm,4,1
+6842779324,Jorge,Daniaud,Male,add new dish,qualified,2020-03-10 22:05:23,web,cold,2,4
+6856749279,Roxanna,Themann,Female,add new dish,qualified,2020-01-28 09:24:55,web,cold,4,4
+7731116522,Andonis,Derkes,Male,add new dish,cancelled,2020-01-10 20:11:16,web,hot,3,4
+4396494319,Alleyn,Hatchard,Male,wants register hotel,qualified,2020-01-28 04:20:03,Employee Referral,hot,1,3
+7466376835,Garold,Timberlake,Male,order food,qualified,2020-02-29 22:44:30,Word of Mouth,hot,3,3
+0019989636,Garek,Vautrey,Male,wants register hotel,cancelled,2020-04-08 09:22:08,Seminar,hot,3,1
+1910936464,Julian,Scruby,Male,wiggy SUPER 1 year membership,qualified,2020-02-18 14:10:25,Word of Mouth,cold,2,4
+1734741740,Bob,Butt Gow,Male,order food,cancelled,2020-03-28 09:59:49,Employee Referral,cold,1,3
+3429149355,Aubry,Pickard,Female,wants register hotel,qualified,2020-01-16 21:54:58,Web,hot,3,1
+9706381481,Lynn,Newbigging,Male,order food,cancelled,2020-01-31 16:02:21,web,cold,4,2
+6312287149,Edward,Malin,Male,order food,cancelled,2020-01-03 14:54:41,web,cold,4,2
+5387965720,Teodoor,Oswald,Male,add new dish,cancelled,2020-02-13 14:48:36,web,Warm,3,3
+5813702342,Demeter,Sumpter,Female,wants register hotel,cancelled,2020-03-09 13:55:35,web,cold,2,3
+4327244546,Binni,Ely,Female,add new dish,cancelled,2020-04-09 14:12:07,Employee Referral,hot,4,3
+2243645467,Clerkclaude,McPheat,Male,add new dish,qualified,2020-02-05 10:42:54,web,cold,2,3
+7897930246,Oona,Doogan,Female,order food,qualified,2020-03-14 12:06:34,Web,cold,2,3
+2180139942,Marjorie,Checci,Female,wiggy SUPER 1 year membership,qualified,2020-01-19 21:27:46,Seminar,Warm,4,1
+2454938863,Lemuel,Riglar,Male,wiggy SUPER 1 year membership,cancelled,2020-02-29 21:01:59,Advertisement,cold,4,1
+0307386767,Felix,Boodell,Male,add new dish,qualified,2020-02-09 14:02:40,Word of Mouth,hot,3,1
+2593731559,Neda,Lacrouts,Female,order food,cancelled,2020-02-16 08:36:17,Word of Mouth,Warm,2,3
+6148523426,Richy,Wrigley,Male,add new dish,qualified,2020-02-27 08:43:48,Word of Mouth,Warm,2,3
+7188597103,Chloris,Slatford,Female,wiggy SUPER 1 year membership,qualified,2020-01-22 21:21:20,Word of Mouth,Warm,4,3
+3166803289,Briney,Loughhead,Female,order food,qualified,2020-03-29 13:31:50,Web,hot,4,4
+5508410007,Griffie,Alliban,Male,add new dish,qualified,2020-02-11 06:12:25,Web,hot,4,1
+0246860685,Parnell,Edge,Male,wiggy SUPER 1 year membership,qualified,2020-04-07 07:38:53,Advertisement,hot,1,4
+0278116256,Janina,Barge,Female,wants register hotel,qualified,2020-03-03 09:49:30,web,hot,4,4
+9117811686,Alonso,Deverale,Male,add new dish,qualified,2020-01-07 00:09:20,web,Warm,4,2
+8009814490,Martguerita,Whitehorn,Female,order food,qualified,2020-02-24 14:39:51,Seminar,Warm,2,2
+5500092006,Omero,Oret,Male,add new dish,qualified,2020-02-06 20:51:14,Advertisement,hot,3,1
+1288311605,Kirsten,Piggot,Female,order food,cancelled,2020-01-02 07:58:59,Web,hot,4,4
+5739538149,Patricio,Euesden,Male,wants register hotel,cancelled,2020-01-19 02:55:12,Seminar,hot,4,1
+0849674115,Pen,Ivison,Male,order food,cancelled,2020-03-28 05:28:55,Employee Referral,cold,4,2
+0674476425,Georgina,Saywell,Female,wiggy SUPER 1 year membership,qualified,2020-01-17 23:23:00,Word of Mouth,Warm,3,4
+0871939894,Irwin,Armfield,Male,order food,qualified,2020-02-14 15:26:15,Word of Mouth,cold,2,4
+4441356951,Brnaba,Tratton,Male,wiggy SUPER 1 year membership,cancelled,2020-01-15 09:48:55,web,Warm,1,2
+1564060659,Beltran,Newham,Male,order food,cancelled,2020-01-26 16:29:04,web,hot,4,1
+5545002766,Ray,Stilldale,Female,order food,qualified,2020-01-02 13:47:32,web,cold,3,1
+1460315146,Lonnie,Goodbarr,Female,order food,cancelled,2020-03-16 12:02:52,web,hot,2,4
+6609429804,Moshe,Winsiowiecki,Male,wiggy SUPER 1 year membership,cancelled,2020-04-04 14:36:12,Seminar,hot,2,2
+1857351479,Lottie,Cooke,Female,order food,qualified,2020-02-26 05:10:22,web,cold,3,2
+0404092500,Malina,McAlinden,Female,wants register hotel,cancelled,2020-02-25 04:07:18,Word of Mouth,hot,3,3
+7467434537,Ario,Hasker,Male,add new dish,qualified,2020-02-22 08:01:33,web,cold,2,1
+5116196240,Ardine,Cullum,Female,add new dish,cancelled,2020-04-03 11:18:25,web,hot,3,1
+8535524304,Rebeka,Speller,Female,wiggy SUPER 1 year membership,qualified,2020-02-22 04:50:42,web,Warm,1,3
+1371921466,Ignace,Harmes,Male,add new dish,qualified,2020-03-20 17:30:32,web,Warm,2,1
+5279874906,Fonzie,Ilden,Male,order food,cancelled,2020-01-19 22:35:06,Seminar,cold,3,1
+2492348830,Janna,Szreter,Female,wants register hotel,qualified,2020-02-06 18:05:01,web,cold,3,4
+2701427851,Marcile,Bartos,Female,wiggy SUPER 1 year membership,qualified,2020-04-04 12:55:18,Seminar,hot,2,1
+5671634970,Ludovico,Bowdidge,Male,order food,qualified,2020-03-22 16:21:43,Web,Warm,1,2
+8519776205,Lissy,Borland,Female,order food,cancelled,2020-02-02 22:24:41,Seminar,cold,1,2
+1178274764,Aline,Bleythin,Female,add new dish,qualified,2020-02-24 03:46:29,Web,Warm,3,2
+7784563035,Filippo,Rosten,Male,wants register hotel,qualified,2020-01-18 19:48:46,web,cold,3,4
+3993902106,Arron,Caban,Male,wiggy SUPER 1 year membership,cancelled,2020-03-09 07:46:14,Seminar,Warm,1,1
+7048526599,Albert,Foyston,Male,order food,qualified,2020-01-05 18:21:17,Web,cold,4,4
+5499593167,Gay,Haddy,Female,add new dish,cancelled,2020-04-08 23:31:26,Web,hot,3,3
+8353145332,Doro,Topes,Female,wiggy SUPER 1 year membership,qualified,2020-03-23 04:23:46,Web,Warm,2,2
+0862207703,Darbie,Klus,Female,order food,cancelled,2020-03-12 13:01:12,Seminar,cold,1,2
+5735834355,Vale,Bigby,Female,order food,qualified,2020-01-14 19:34:41,web,hot,4,2
+3126816282,Timotheus,Kenward,Male,add new dish,qualified,2020-03-09 08:17:00,Advertisement,Warm,4,1
+6814677539,Mechelle,Bridal,Female,wants register hotel,qualified,2020-01-25 12:40:01,Employee Referral,Warm,3,2
+1788286782,Jessey,Bacher,Male,order food,qualified,2020-01-30 10:49:02,Seminar,cold,1,3
+4547445354,Troy,Summerlee,Male,order food,qualified,2020-02-02 08:16:48,web,cold,1,4
+0695016652,Reggis,Oldacres,Male,order food,qualified,2020-03-27 05:08:18,web,cold,1,4
+1761985299,Rem,Hindmore,Male,wants register hotel,cancelled,2020-01-06 06:48:35,Seminar,Warm,2,1
+2943044946,Elaine,Jesse,Female,add new dish,cancelled,2020-03-06 15:50:05,Employee Referral,cold,1,4
+3116734380,Charlotta,Van der Mark,Female,add new dish,qualified,2020-03-24 11:05:55,web,hot,1,4
+3976989150,Nobe,Corsham,Male,add new dish,cancelled,2020-01-22 06:32:12,Web,cold,2,4
+6118417768,Elisha,Urian,Male,order food,qualified,2020-01-25 12:18:07,web,cold,1,2
+4737525022,Marna,Bevir,Female,order food,cancelled,2020-01-21 04:10:04,Advertisement,hot,3,1
+9665903012,Zabrina,Wigzell,Female,wiggy SUPER 1 year membership,qualified,2020-02-04 13:55:47,Seminar,Warm,2,1
+8365040514,Ulysses,Storrs,Male,order food,qualified,2020-01-27 13:22:56,web,hot,2,4
+6977884304,Kerk,Dobing,Male,add new dish,qualified,2020-02-23 06:50:35,web,Warm,2,2
+7862524438,Mirna,Brickwood,Female,add new dish,qualified,2020-01-30 15:30:36,Word of Mouth,Warm,3,4
+4265673317,Judye,Kemball,Female,wiggy SUPER 1 year membership,qualified,2020-03-25 12:23:20,web,cold,1,3
+6505054715,Deb,Thorrington,Female,order food,cancelled,2020-03-02 09:12:46,Web,Warm,4,2
+8214630991,Ulrich,Powdrill,Male,order food,qualified,2020-02-07 18:41:39,Employee Referral,Warm,4,2
+4982363323,Conrado,McConnulty,Male,wiggy SUPER 1 year membership,cancelled,2020-03-16 06:43:09,Employee Referral,Warm,4,3
+8775664887,Jodie,Sleep,Male,order food,cancelled,2020-01-26 04:37:48,web,cold,3,2
+0379627868,Cyril,Ellerker,Male,wiggy SUPER 1 year membership,qualified,2020-01-19 15:10:00,Seminar,Warm,1,2
+4305221977,Carmelia,Tighe,Female,order food,qualified,2020-02-14 19:42:03,Advertisement,hot,3,2
+8882096610,Dilan,Boots,Male,wiggy SUPER 1 year membership,qualified,2020-02-02 17:24:13,Word of Mouth,hot,2,3
+8908047220,Gustave,MacLice,Male,order food,cancelled,2020-01-16 19:48:15,Employee Referral,hot,2,2
+2613647442,Bealle,Friday,Male,order food,qualified,2020-01-07 00:01:31,web,cold,3,3
+8402269575,Retha,Dewen,Female,add new dish,cancelled,2020-01-08 18:39:36,Web,cold,3,3
+9493290549,Ephraim,Innott,Male,wiggy SUPER 1 year membership,cancelled,2020-01-10 06:41:31,Word of Mouth,cold,2,3
+4817435402,Antoinette,Daventry,Female,order food,cancelled,2020-01-01 09:56:53,Advertisement,Warm,4,2
+5826629975,Gram,Kinman,Male,order food,qualified,2020-01-26 23:52:49,Web,Warm,1,1
+9011479114,Garrot,Scoullar,Male,add new dish,qualified,2020-04-02 23:46:32,Word of Mouth,cold,3,3
+9275964513,Wiley,Sylett,Male,order food,qualified,2020-02-22 12:36:40,web,hot,3,2
+0895706067,Nicoli,Berrisford,Female,add new dish,cancelled,2020-01-29 13:07:17,web,cold,3,3
+1640220828,Arlan,Seward,Male,wiggy SUPER 1 year membership,cancelled,2020-02-06 12:23:34,Word of Mouth,cold,4,4
+8426608124,Verina,Tiernan,Female,wiggy SUPER 1 year membership,qualified,2020-04-02 22:50:30,Word of Mouth,cold,2,4
+7589489379,Friedrich,Hesbrook,Male,wants register hotel,cancelled,2020-04-08 19:43:45,Advertisement,cold,2,3
+2283298113,Judah,Probbin,Male,order food,qualified,2020-01-26 16:12:28,Seminar,Warm,1,2
+1707234248,Kasper,Peck,Male,add new dish,qualified,2020-01-09 23:23:18,Web,cold,2,3
+3871476757,Jere,Parrish,Male,wants register hotel,qualified,2020-03-26 19:58:18,web,hot,4,4
+6422061331,Manny,Alliker,Male,order food,cancelled,2020-01-13 21:04:05,Word of Mouth,hot,4,1
+6988765689,Haze,Jewar,Male,wiggy SUPER 1 year membership,qualified,2020-01-10 13:36:17,Word of Mouth,cold,3,2
+2168256136,Carlye,Kinch,Female,wiggy SUPER 1 year membership,qualified,2020-01-04 10:56:26,Word of Mouth,cold,2,2
+1083035428,Dian,Ropert,Female,wiggy SUPER 1 year membership,qualified,2020-02-22 21:29:09,web,hot,1,4
+0880766786,Hamid,Roscamp,Male,order food,qualified,2020-01-02 14:27:51,Advertisement,cold,4,1
+9131574874,Remy,Rabl,Female,wiggy SUPER 1 year membership,qualified,2020-02-25 05:28:13,web,Warm,3,4
+5392797687,Nataline,Blowen,Female,order food,cancelled,2020-04-09 11:33:16,web,Warm,3,2
+9411537278,Rockwell,Ahlin,Male,add new dish,qualified,2020-01-26 02:15:41,web,Warm,3,4
+6877167198,Scot,Bennough,Male,add new dish,qualified,2020-02-08 06:28:13,Advertisement,Warm,4,4
+4392663221,Travis,Letham,Male,wants register hotel,qualified,2020-01-14 23:14:05,Word of Mouth,hot,4,1
+0973449446,Alfonse,Whaley,Male,wiggy SUPER 1 year membership,qualified,2020-01-03 13:07:51,Word of Mouth,Warm,4,4
+5660073824,Jeffrey,Bosden,Male,wiggy SUPER 1 year membership,cancelled,2020-02-20 19:49:46,web,cold,3,2
+6037094047,Dav,Mathan,Male,add new dish,qualified,2020-02-13 03:30:06,Employee Referral,cold,4,1
+5968007834,Sibilla,Caress,Female,wiggy SUPER 1 year membership,qualified,2020-02-24 18:46:32,Web,Warm,2,4
+2367798710,Eduardo,Chugg,Male,add new dish,qualified,2020-01-20 20:38:59,web,Warm,3,1
+3088328573,Lionel,Rottcher,Male,wiggy SUPER 1 year membership,cancelled,2020-01-17 02:29:55,Web,cold,4,2
+4771529531,Salaidh,Hardiman,Female,order food,cancelled,2020-03-09 23:39:35,Word of Mouth,Warm,3,2
+0205633765,Tabb,McGonnell,Male,wants register hotel,qualified,2020-01-18 20:29:15,Advertisement,Warm,4,4
+9628055623,Barney,Reis,Male,wiggy SUPER 1 year membership,qualified,2020-03-09 06:12:40,Advertisement,cold,3,1
+2415706434,Wilone,Raine,Female,add new dish,qualified,2020-01-07 15:37:06,web,hot,4,2
+6268121538,Galina,Swin,Female,wants register hotel,cancelled,2020-03-19 15:41:39,Word of Mouth,Warm,4,2
+1218189576,Witty,Brigstock,Male,wants register hotel,cancelled,2020-03-18 03:52:09,web,hot,3,2
+4600996526,Chrissy,Crossthwaite,Male,add new dish,cancelled,2020-02-03 02:05:36,Employee Referral,cold,3,4
+4206417067,Moll,Kohnert,Female,add new dish,qualified,2020-03-31 23:52:43,web,cold,2,4
+8353573245,Frannie,Durward,Male,order food,qualified,2020-03-19 08:23:53,Seminar,Warm,1,4
+9456326837,Sheelagh,Richt,Female,order food,qualified,2020-01-25 12:35:41,Advertisement,cold,3,3
+9612854971,Allys,Ancketill,Female,wants register hotel,qualified,2020-04-05 10:15:13,Employee Referral,Warm,4,1
+8854262757,Allan,Urien,Male,wants register hotel,cancelled,2020-03-01 18:23:18,Advertisement,Warm,3,1
+5328474457,Elsinore,Oleszkiewicz,Female,wants register hotel,cancelled,2020-03-18 22:49:01,web,cold,4,4
+0763334650,Carter,Di Ruggero,Male,add new dish,qualified,2020-03-06 07:46:19,Advertisement,Warm,2,3
+5261631254,Melonie,Karp,Female,add new dish,qualified,2020-04-06 05:22:24,web,hot,2,4
+5413769466,Immanuel,Samuels,Male,wants register hotel,cancelled,2020-04-10 23:39:36,Word of Mouth,cold,1,2
+7748741883,Clemence,Kail,Female,wiggy SUPER 1 year membership,qualified,2020-04-05 12:19:23,web,hot,1,3
+4479278885,Nara,Leggott,Female,add new dish,qualified,2020-02-15 18:07:10,web,cold,2,4
+7806041249,Olivette,Gabala,Female,wiggy SUPER 1 year membership,qualified,2020-01-31 22:17:56,Seminar,cold,2,4
+5739957400,Pammy,Daniell,Female,wants register hotel,cancelled,2020-02-14 09:24:50,Word of Mouth,Warm,2,2
+7221237972,Buddie,Nathan,Male,add new dish,cancelled,2020-02-03 13:17:09,web,Warm,3,4
+5397359866,Purcell,Tangye,Male,wants register hotel,cancelled,2020-03-20 00:08:41,web,Warm,4,1
+8739189600,Raymond,Fearon,Male,wiggy SUPER 1 year membership,cancelled,2020-02-17 00:37:57,Advertisement,cold,1,3
+3240866862,Joline,Dunican,Female,order food,qualified,2020-04-12 05:48:33,Word of Mouth,hot,1,3
+0371700205,Danielle,Zellick,Female,order food,qualified,2020-02-07 11:28:01,Advertisement,cold,1,1
+7042190335,Pavel,Marshman,Male,order food,qualified,2020-03-31 21:08:15,Word of Mouth,hot,3,1
+3453464265,Kenon,Penhalewick,Male,wants register hotel,cancelled,2020-03-06 02:21:06,Web,Warm,2,1
+2213135614,Bartolemo,Jezzard,Male,order food,cancelled,2020-01-30 18:38:35,Advertisement,Warm,4,1
+5981025956,Giffie,Paye,Male,add new dish,qualified,2020-01-16 17:46:14,Seminar,Warm,4,1
+7423178462,Hersch,Tivers,Male,add new dish,cancelled,2020-01-15 22:10:05,Word of Mouth,cold,3,2
+8449912830,Victor,Alp,Male,order food,qualified,2020-02-24 22:54:45,web,hot,1,3
+3788321148,Antonino,Routhorn,Male,wants register hotel,qualified,2020-02-13 23:12:29,Seminar,Warm,2,2
+0529349701,Hynda,Saltsberg,Female,wiggy SUPER 1 year membership,qualified,2020-01-25 07:50:28,Web,Warm,1,1
+7274364073,Abbye,MacPake,Female,wiggy SUPER 1 year membership,cancelled,2020-02-20 16:32:34,Seminar,cold,1,3
+6870286175,Woodrow,Powling,Male,wiggy SUPER 1 year membership,cancelled,2020-01-15 16:49:23,Web,Warm,4,4
+9087201060,Christel,Smithies,Female,order food,qualified,2020-01-13 18:24:39,web,Warm,3,3
+4367634051,Windham,Lines,Male,wiggy SUPER 1 year membership,qualified,2020-03-13 04:01:24,Employee Referral,Warm,1,1
+0964323370,Koressa,Moakes,Female,order food,qualified,2020-03-15 10:17:16,Advertisement,Warm,1,3
+9294725294,Jo ann,Shurmer,Female,add new dish,qualified,2020-04-11 03:07:00,web,hot,1,3
+4619124796,Cary,Kenwood,Male,wants register hotel,qualified,2020-03-06 05:56:12,web,cold,4,2
+2931239119,Carey,Orgee,Male,order food,cancelled,2020-03-03 12:39:14,web,hot,1,4
+9144270372,Galvan,Rundall,Male,add new dish,cancelled,2020-04-06 07:20:38,Word of Mouth,cold,2,2
+4919986459,Allyn,Eden,Male,wiggy SUPER 1 year membership,qualified,2020-02-19 05:26:38,Web,hot,1,4
+8464592396,Regine,Langford,Female,wiggy SUPER 1 year membership,qualified,2020-01-11 19:04:08,Employee Referral,cold,1,1
+2484489706,Barbi,Beidebeke,Female,order food,cancelled,2020-03-10 20:57:35,Employee Referral,hot,3,4
+6400699252,Jocelin,Gregorin,Female,add new dish,cancelled,2020-02-21 10:21:26,Web,Warm,2,3
+5421329003,Ardisj,Guerin,Female,order food,qualified,2020-01-19 07:13:13,web,Warm,3,3
+5857694078,Therese,Yearne,Female,add new dish,qualified,2020-01-24 09:35:43,web,cold,2,1
+0967022274,Elle,Larmett,Female,add new dish,cancelled,2020-01-04 15:41:28,web,hot,2,1
+4486015835,Court,Pisculli,Male,wants register hotel,cancelled,2020-01-10 20:20:16,Word of Mouth,hot,2,3
+8775914328,Jessie,Balme,Female,order food,qualified,2020-02-07 23:07:30,web,Warm,2,1
+7429274250,Deedee,Glowacha,Female,add new dish,qualified,2020-04-11 17:48:14,Advertisement,cold,2,1
+6367497218,Lolly,Jagielski,Female,order food,qualified,2020-02-15 12:25:22,Employee Referral,cold,2,3
+2495140459,Jamesy,Seer,Male,order food,cancelled,2020-02-28 16:18:57,Employee Referral,hot,3,3
+6030899759,Ase,Daybell,Male,order food,qualified,2020-01-08 13:35:24,Advertisement,Warm,1,3
+9242887986,Obadiah,Ditchfield,Male,order food,qualified,2020-01-31 10:44:31,Seminar,cold,2,3
+8856046903,Ingeberg,Ridgewell,Female,wants register hotel,qualified,2020-01-26 14:09:04,web,hot,4,1
+6005985043,Vida,Rawlence,Female,wiggy SUPER 1 year membership,cancelled,2020-03-13 15:10:15,web,hot,3,3
+6912093329,Otha,Ferrari,Female,order food,qualified,2020-01-14 16:12:56,web,hot,3,3
+7844662069,Marlene,Espine,Female,order food,qualified,2020-02-17 20:33:31,web,Warm,4,4
+8599726374,Gaultiero,Sissel,Male,order food,qualified,2020-01-16 03:26:21,Word of Mouth,Warm,1,1
+1909843539,Meggy,Sallans,Female,wants register hotel,cancelled,2020-02-12 12:45:19,web,hot,2,1
+7254595746,Aldrich,Winser,Male,add new dish,qualified,2020-03-04 14:01:29,Word of Mouth,Warm,3,1
+3502100780,Mata,Collings,Male,add new dish,qualified,2020-03-13 18:04:15,Employee Referral,Warm,2,4
+6901407173,Buckie,Jeays,Male,add new dish,qualified,2020-01-04 04:35:06,Seminar,hot,1,1
+5545191925,Mycah,Welman,Male,wants register hotel,cancelled,2020-04-01 09:08:24,Employee Referral,hot,4,2
+5896574320,Thornton,Buesnel,Male,wiggy SUPER 1 year membership,qualified,2020-02-24 23:46:30,Seminar,Warm,2,3
+3257027826,Kane,Bastard,Male,add new dish,qualified,2020-03-05 15:00:36,Web,Warm,2,1
+0181584603,Lottie,Fermor,Female,add new dish,qualified,2020-02-15 13:02:09,Word of Mouth,cold,3,2
+5039112521,Lucine,Swendell,Female,wiggy SUPER 1 year membership,cancelled,2020-03-24 05:01:52,Advertisement,cold,4,2
+6971161831,Horace,Cotgrove,Male,wiggy SUPER 1 year membership,qualified,2020-03-09 18:26:46,Word of Mouth,cold,1,4
+1182580920,Dorolice,Cohani,Female,order food,cancelled,2020-01-04 11:34:17,web,cold,1,1
+7470552162,Noby,Richardon,Male,wiggy SUPER 1 year membership,cancelled,2020-01-25 16:39:22,web,hot,1,3
+5589828023,Phylys,Goodee,Female,order food,qualified,2020-02-05 05:19:26,Employee Referral,hot,4,1
+7155283673,Gottfried,Ubanks,Male,wiggy SUPER 1 year membership,cancelled,2020-04-04 05:26:01,Word of Mouth,cold,1,3
+0861397134,Conrade,Sodor,Male,order food,cancelled,2020-04-02 11:05:28,Word of Mouth,Warm,1,4
+9168912919,Mic,Blankley,Male,order food,qualified,2020-03-14 04:16:16,Employee Referral,hot,4,4
+3340485798,North,Swindall,Male,wiggy SUPER 1 year membership,qualified,2020-02-25 18:15:41,web,cold,1,2
+6118489742,Davidson,McGougan,Male,wants register hotel,qualified,2020-02-08 21:54:08,Word of Mouth,cold,1,1
+4051345467,Morna,MacGruer,Female,order food,qualified,2020-03-02 09:01:13,Advertisement,cold,1,4
+8144639529,Rice,Burgne,Male,add new dish,cancelled,2020-04-05 14:52:45,Advertisement,hot,3,2
+7245495335,Taddeo,Hammand,Male,add new dish,cancelled,2020-04-11 05:40:26,web,Warm,2,4
+2627843907,Pete,Casaccio,Male,wants register hotel,cancelled,2020-02-05 05:18:47,web,cold,3,2
+8982818227,Monique,Picknett,Female,order food,cancelled,2020-02-12 09:07:57,Word of Mouth,Warm,3,2
+9924024753,Bertrand,Snelson,Male,wiggy SUPER 1 year membership,qualified,2020-01-16 09:54:33,Seminar,Warm,2,2
+1252465726,Germain,Freathy,Male,add new dish,cancelled,2020-04-01 16:01:09,Employee Referral,Warm,2,3
+3993133013,Allard,McKernan,Male,wiggy SUPER 1 year membership,cancelled,2020-03-14 17:27:27,web,Warm,2,1
+4378928671,Janaye,Dellit,Female,order food,cancelled,2020-03-17 17:41:54,Word of Mouth,cold,3,1
+1707501475,Hinda,Rampage,Female,order food,qualified,2020-04-13 10:20:57,Seminar,hot,2,3
+4723493972,Kaile,Ogers,Female,add new dish,cancelled,2020-01-16 07:23:22,Seminar,Warm,2,1
+4479159533,Rudolf,Aucourte,Male,wiggy SUPER 1 year membership,qualified,2020-02-08 11:53:06,Web,cold,3,2
+5028522766,Marcelline,Grinin,Female,order food,qualified,2020-02-15 17:14:29,Seminar,Warm,1,3
+8112208719,Beret,Southeran,Female,add new dish,cancelled,2020-04-08 00:33:35,Employee Referral,hot,3,3
+1089720920,Ezequiel,McGreil,Male,wiggy SUPER 1 year membership,qualified,2020-01-20 00:53:02,web,cold,2,3
+9420688402,Gabriela,Kalaher,Female,add new dish,cancelled,2020-01-01 04:53:49,Web,cold,1,2
+7331731505,Stace,Elgie,Female,wiggy SUPER 1 year membership,cancelled,2020-03-22 11:22:55,Word of Mouth,Warm,2,1
+0362821968,Maire,Exroll,Female,wants register hotel,qualified,2020-01-28 19:53:00,Seminar,cold,4,4
+4521236081,Bink,Satyford,Male,order food,qualified,2020-03-23 14:49:09,Seminar,Warm,2,2
+6270025265,Anthe,Plewright,Female,order food,cancelled,2020-01-11 06:07:34,Advertisement,cold,3,3
+5381816235,Lanna,O'Duilleain,Female,wants register hotel,qualified,2020-03-20 12:36:14,web,Warm,3,1
+3268101070,Rebekkah,Peters,Female,add new dish,qualified,2020-04-12 19:28:19,Seminar,cold,2,2
+7694515376,Emmalyn,Ellis,Female,add new dish,qualified,2020-03-05 18:46:39,web,hot,3,4
+0551936967,Jermain,Biggen,Male,wiggy SUPER 1 year membership,cancelled,2020-02-20 18:23:29,Web,hot,3,4
+2802959794,Guillema,Thredder,Female,wiggy SUPER 1 year membership,qualified,2020-02-14 12:26:59,Word of Mouth,Warm,1,4
+7513793603,Eleni,Grunson,Female,order food,cancelled,2020-01-15 05:59:29,Advertisement,cold,4,3
+3363185308,Wilfrid,Pressdee,Male,wants register hotel,cancelled,2020-01-04 23:34:43,web,cold,1,1
+1182700942,Guido,Musgrave,Male,order food,qualified,2020-04-12 07:57:51,Web,Warm,2,2
+0305373498,Marco,Scala,Male,wiggy SUPER 1 year membership,qualified,2020-01-01 00:35:53,Web,Warm,1,2
+9453036870,Aviva,Chmiel,Female,order food,qualified,2020-03-27 14:29:49,Employee Referral,cold,4,3
+6861791342,Frasco,Stieger,Male,order food,qualified,2020-02-08 00:11:50,Web,cold,3,3
+6755799270,Goran,Pedlow,Male,add new dish,cancelled,2020-04-07 18:46:10,Seminar,cold,3,2
+9003283958,Drusilla,Byres,Female,order food,cancelled,2020-01-25 08:44:26,Web,cold,4,3
+6836247227,Kristi,Gallie,Female,add new dish,qualified,2020-01-25 05:24:32,Employee Referral,hot,3,4
+7458628456,Saul,Ouchterlony,Male,order food,qualified,2020-03-26 15:47:59,Seminar,cold,3,3
+1328299651,Mike,Tofpik,Male,wiggy SUPER 1 year membership,cancelled,2020-02-14 12:04:17,Employee Referral,Warm,4,3
+2627625284,Anderson,Gregoraci,Male,order food,qualified,2020-04-02 13:19:29,Seminar,cold,3,3
+3061377697,Tremayne,Howson,Male,add new dish,qualified,2020-01-07 19:20:39,web,hot,3,2
+5545329560,Lynn,Curragh,Female,wiggy SUPER 1 year membership,qualified,2020-01-25 06:25:32,web,cold,1,4
+8974449986,Kirstin,Giacoppo,Female,order food,qualified,2020-03-18 22:09:26,Employee Referral,Warm,4,3
+3498180282,Adrien,Giraudel,Male,order food,qualified,2020-01-08 14:33:31,Seminar,cold,4,3
+7781308484,Gnni,Keaveney,Female,wiggy SUPER 1 year membership,qualified,2020-04-08 03:03:43,Employee Referral,cold,2,1
+5213160328,Alaine,Kenefick,Female,order food,qualified,2020-01-27 12:17:35,Word of Mouth,Warm,3,4
+2365008720,Piper,Beddow,Female,wants register hotel,cancelled,2020-03-14 08:47:21,Employee Referral,cold,3,2
+2481098285,Weston,Hearnes,Male,wants register hotel,qualified,2020-02-21 02:33:41,web,cold,3,3
+3987303948,Alexine,Gourlay,Female,add new dish,qualified,2020-02-22 21:04:40,web,hot,2,2
+3040461567,Delaney,Borrie,Male,wiggy SUPER 1 year membership,cancelled,2020-02-10 07:51:44,web,cold,1,4
+0374765871,Claresta,Bligh,Female,wants register hotel,qualified,2020-02-24 06:12:02,Word of Mouth,hot,2,1
+2025593422,Modestia,Eastup,Female,wiggy SUPER 1 year membership,cancelled,2020-01-28 19:24:00,Advertisement,hot,4,3
+5097689119,Mortimer,Jacombs,Male,wiggy SUPER 1 year membership,qualified,2020-01-23 06:57:49,Word of Mouth,hot,3,4
+1662622759,Micah,Chasle,Male,order food,qualified,2020-03-25 20:06:42,Seminar,Warm,3,3
+9351537420,Matthieu,Jillitt,Male,order food,qualified,2020-01-10 18:56:15,Advertisement,Warm,2,3
+4104793698,Alisha,Patten,Female,order food,cancelled,2020-04-04 08:16:56,Employee Referral,cold,3,1
+2330387881,Connie,Tuffin,Male,add new dish,cancelled,2020-04-05 04:36:08,web,Warm,1,4
+3607009066,Leela,Jakubiak,Female,wiggy SUPER 1 year membership,cancelled,2020-03-25 19:24:55,Employee Referral,hot,1,3
+3211633952,Hansiain,Withinshaw,Male,wants register hotel,qualified,2020-01-10 21:17:59,Web,cold,1,4
+0518926257,Dell,Kiezler,Male,add new dish,qualified,2020-01-02 17:00:50,Employee Referral,cold,4,3
+4075901122,Darwin,Cammack,Male,wants register hotel,qualified,2020-02-13 15:46:01,Seminar,Warm,4,4
+2039630899,Norton,Parnall,Male,add new dish,qualified,2020-03-13 06:47:31,Word of Mouth,cold,1,2
+2906861251,Shaine,Stroud,Male,order food,cancelled,2020-02-07 14:47:43,Advertisement,cold,2,1
+3581010232,Melisse,Cramb,Female,order food,qualified,2020-02-19 02:41:45,Web,hot,2,4
+6671566445,Willow,Thebe,Female,add new dish,qualified,2020-04-07 16:06:28,web,Warm,3,3
+9363874575,Marlo,Bonsall,Male,wants register hotel,qualified,2020-02-26 04:29:02,Web,hot,1,2
+1065016530,Meredith,Le Marquis,Female,wiggy SUPER 1 year membership,qualified,2020-03-17 00:51:05,Web,hot,3,3
+2465571222,Storm,Anan,Female,order food,qualified,2020-01-17 18:51:52,Employee Referral,cold,4,3
+6646255857,Asa,Spurge,Male,wants register hotel,qualified,2020-04-06 10:23:40,web,Warm,1,4
+4467234683,Beverlie,Middleton,Female,wiggy SUPER 1 year membership,qualified,2020-03-05 03:06:43,web,Warm,3,2
+6619354874,Marcos,Acheson,Male,wiggy SUPER 1 year membership,qualified,2020-02-07 00:06:25,web,hot,4,4
+5878199343,Martguerita,Tilbrook,Female,wiggy SUPER 1 year membership,qualified,2020-03-29 12:56:32,Word of Mouth,cold,2,2
+1865848018,Babb,Scholcroft,Female,wants register hotel,cancelled,2020-01-05 07:55:33,web,Warm,2,2
+2182593012,Arley,Rraundl,Male,wiggy SUPER 1 year membership,qualified,2020-03-23 02:18:32,Advertisement,cold,2,2
+7194159406,Carlie,Entres,Male,add new dish,qualified,2020-04-14 16:27:56,web,Warm,1,2
+4175762477,Isak,Smuth,Male,order food,qualified,2020-03-12 10:06:23,Word of Mouth,hot,2,2
+8379774841,Vernor,Phillps,Male,order food,qualified,2020-03-08 18:15:58,Advertisement,cold,3,4
+1908153008,Pietro,Lutzmann,Male,wiggy SUPER 1 year membership,cancelled,2020-01-01 20:16:29,Web,hot,2,1
+2145295178,Leslie,Suett,Female,order food,cancelled,2020-04-12 00:14:50,Web,cold,2,2
+5588885465,Kelley,Shermore,Male,order food,qualified,2020-02-29 15:14:23,Employee Referral,Warm,1,3
+5859994729,Tamarra,Putnam,Female,add new dish,qualified,2020-01-05 15:36:18,web,Warm,3,1
+0143914405,Thornie,Thompsett,Male,add new dish,cancelled,2020-01-25 18:42:09,Advertisement,cold,2,2
+1555935265,Lotti,Scamp,Female,add new dish,qualified,2020-03-08 07:20:54,Word of Mouth,Warm,4,4
+5768937242,Davis,Beccero,Male,wiggy SUPER 1 year membership,qualified,2020-03-20 11:26:09,web,hot,3,1
+8602593708,Perri,Worsalls,Female,wants register hotel,cancelled,2020-01-29 13:29:10,Word of Mouth,Warm,3,1
+9120470746,Chloris,Deluca,Female,wants register hotel,qualified,2020-03-07 05:11:48,web,Warm,1,3
+8578197739,North,Jodkowski,Male,add new dish,cancelled,2020-04-09 20:05:41,web,Warm,3,4
+8304546019,Mohammed,Christopher,Male,wiggy SUPER 1 year membership,cancelled,2020-04-10 23:30:33,Word of Mouth,hot,2,1
+6363439221,Kleon,Semken,Male,wants register hotel,qualified,2020-02-01 15:01:56,Web,cold,1,1
+5074959780,Niles,Jerson,Male,add new dish,qualified,2020-03-02 00:10:03,Web,hot,2,2
+3633298177,Arty,Bickerstaffe,Male,wants register hotel,cancelled,2020-02-03 18:47:43,web,hot,2,1
+1517724430,Sascha,Michal,Female,wants register hotel,qualified,2020-01-22 09:55:36,Web,hot,1,4
+9388952863,Hynda,Tobias,Female,wants register hotel,qualified,2020-04-01 21:51:20,Web,Warm,4,2
+4411615908,Rikki,Marjoribanks,Male,order food,cancelled,2020-02-18 03:22:19,web,cold,4,3
+9016607129,Donall,Sobieski,Male,add new dish,cancelled,2020-03-18 03:25:09,web,Warm,1,3
+8550966282,Mozes,Downing,Male,order food,qualified,2020-01-04 19:18:20,Advertisement,hot,1,2
+7843504532,Pete,Simonetto,Male,add new dish,qualified,2020-01-30 03:38:01,Advertisement,cold,4,4
+7256567537,Alvan,Woodings,Male,order food,qualified,2020-01-28 02:29:32,Advertisement,hot,4,1
+4853724036,Bradley,Aikman,Male,wiggy SUPER 1 year membership,cancelled,2020-02-15 00:34:58,Advertisement,hot,4,1
+8037639436,Maurits,Caccavari,Male,wiggy SUPER 1 year membership,qualified,2020-02-11 02:48:01,web,hot,1,1
+5025262887,Barnie,Seton,Male,wiggy SUPER 1 year membership,qualified,2020-01-03 10:00:12,Word of Mouth,cold,1,3
+6765661255,Jo-ann,Landon,Female,order food,qualified,2020-03-10 05:04:17,web,cold,4,2
+4977139747,Bill,Marconi,Female,wants register hotel,qualified,2020-01-05 22:34:32,web,cold,3,3
+0437025144,Gwendolyn,Ouldcott,Female,order food,cancelled,2020-03-11 23:47:17,Seminar,hot,1,1
+6656530176,Devlin,Ventum,Male,add new dish,cancelled,2020-02-28 23:39:23,Web,cold,1,2
+6326940133,Khalil,Dobbings,Male,wiggy SUPER 1 year membership,cancelled,2020-02-13 08:56:52,Web,cold,2,4
+9972604845,Ezra,Strauss,Male,order food,cancelled,2020-01-26 15:56:58,web,hot,3,4
+2674255951,Peg,Iacovino,Female,wants register hotel,qualified,2020-03-05 19:17:10,web,hot,1,2
+0579258238,Stephanus,Awmack,Male,add new dish,qualified,2020-03-15 08:38:37,web,Warm,4,4
+2674707267,Sherie,Whitely,Female,wants register hotel,cancelled,2020-04-01 14:24:38,web,cold,3,4
+2243501538,Karon,Coakley,Female,order food,qualified,2020-03-25 23:29:54,Advertisement,Warm,4,4
+5609078512,Farrand,Dumpleton,Female,order food,qualified,2020-02-03 19:21:52,Web,cold,1,3
+3858563870,Tracey,McTeague,Male,wants register hotel,qualified,2020-01-17 07:30:27,web,hot,3,2
+1895177669,Leif,Sabater,Male,wants register hotel,qualified,2020-03-14 08:38:15,Employee Referral,Warm,4,2
+9281612402,Keriann,Keaveney,Female,wiggy SUPER 1 year membership,qualified,2020-02-28 11:10:22,Word of Mouth,Warm,2,4
+7365817445,Linette,Gilgryst,Female,order food,qualified,2020-01-17 01:22:58,web,Warm,2,1
+7558242347,Adrian,Fairney,Female,wiggy SUPER 1 year membership,qualified,2020-04-13 14:33:22,Advertisement,hot,3,1
+8479821655,Raimondo,McAvaddy,Male,order food,cancelled,2020-04-02 01:38:05,web,cold,3,1
+8109480098,Dolph,Breakwell,Male,order food,qualified,2020-04-09 23:03:50,Web,Warm,1,1
+9781846690,Goddart,Craise,Male,wants register hotel,qualified,2020-01-03 06:35:03,Employee Referral,hot,1,3
+0435227912,Olympia,Belloch,Female,order food,qualified,2020-04-11 02:24:22,Advertisement,cold,3,1
+8033494085,Oates,Digg,Male,order food,qualified,2020-01-07 08:27:53,Web,cold,3,1
+5388192067,Dew,Ferentz,Male,order food,cancelled,2020-02-22 22:19:51,web,Warm,1,1
+3463320339,Margarete,Frugier,Female,order food,cancelled,2020-04-14 23:23:52,Seminar,Warm,3,2
+5485763367,Rouvin,Swett,Male,order food,qualified,2020-02-10 07:36:47,Seminar,Warm,3,3
+4632330205,Kalle,Bruster,Male,wants register hotel,cancelled,2020-02-22 15:30:00,Seminar,hot,1,2
+7738099135,Elia,Priditt,Male,order food,qualified,2020-01-02 04:57:12,Web,hot,2,1
+8449259843,Maura,Dallewater,Female,add new dish,qualified,2020-02-27 13:20:43,Seminar,hot,4,3
+9965005214,Ranique,McVane,Female,wiggy SUPER 1 year membership,qualified,2020-01-05 09:41:16,web,hot,4,3
+7281696612,Titos,Atherley,Male,order food,qualified,2020-01-28 07:14:25,Word of Mouth,cold,4,1
+3281844839,Melony,Heinle,Female,wiggy SUPER 1 year membership,qualified,2020-02-27 04:41:05,web,Warm,2,4
+5722678007,Barney,Simko,Male,order food,qualified,2020-03-20 06:16:53,Web,hot,2,2
+1103094688,Yvor,Gerardet,Male,wiggy SUPER 1 year membership,cancelled,2020-03-09 22:45:27,Word of Mouth,Warm,3,4
+0317641670,Barron,Simunek,Male,order food,cancelled,2020-03-26 21:21:55,Word of Mouth,Warm,3,2
+8895797787,Maxim,Husthwaite,Male,wants register hotel,qualified,2020-04-05 15:50:23,Employee Referral,Warm,2,2
+3791083740,Teodoor,Vescovini,Male,wants register hotel,qualified,2020-02-05 11:57:03,Web,Warm,3,3
+4150337667,Patin,Dellenbroker,Male,order food,cancelled,2020-03-31 04:30:16,Advertisement,cold,3,1
+7475283828,Travus,Werrit,Male,wants register hotel,cancelled,2020-02-29 20:24:31,web,hot,3,3
+1101736852,Lisle,Keller,Male,order food,cancelled,2020-01-17 10:33:07,web,cold,1,2
+5014321585,Raynor,Lowder,Male,add new dish,qualified,2020-03-02 04:09:22,Web,hot,2,3
+5766891237,Thatcher,Robrow,Male,order food,qualified,2020-03-10 05:16:45,Employee Referral,cold,4,3
+9011810686,Denis,Fenech,Male,wants register hotel,cancelled,2020-02-24 00:14:38,Seminar,hot,4,1
+2383326682,Raimund,Croneen,Male,order food,qualified,2020-01-14 05:19:15,Word of Mouth,hot,4,4
+2169637036,Nikoletta,Grichukhin,Female,wiggy SUPER 1 year membership,qualified,2020-03-18 18:13:41,Web,Warm,1,4
