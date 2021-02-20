@@ -5,3 +5,4 @@ The data was generated on mackaroo according to the requirement for business per
 
 Dashboard was created on Power BI to displaying the visualization according to the records of the order.
 
+All implementation and specification outcomes are included in the file with full project report in Specification_Report.pdf and Implementation_report.pdf file.
